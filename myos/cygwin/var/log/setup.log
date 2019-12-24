@@ -1,0 +1,321 @@
+2015/04/14 16:20:07 Starting cygwin install, version 2.870
+2015/04/14 16:20:07 User has backup/restore rights
+2015/04/14 16:20:07 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2015/04/14 16:20:07 Current Directory: C:\Users\nidhalkratos\AppData\Roaming\IDM
+2015/04/14 16:20:07 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2015/04/14 16:20:18 source: network install
+2015/04/14 16:21:29 root: D:\System\Compilers\cygwin system
+2015/04/14 16:21:47 Selected local directory: C:\Users\nidhalkratos\temp
+2015/04/14 16:21:51 net: Direct
+2015/04/14 16:27:33 site: http://mirror.calvin.edu/cygwin/
+2015/04/14 16:27:43 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2015/04/14 16:27:43 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+2015/04/14 16:36:28 site: http://download.nus.edu.sg/mirror/cygwin/
+2015/04/14 17:11:19 Adding required dependency binutils: Selecting version 2.25-1 for installation.
+2015/04/14 17:11:19 Adding required dependency bzip2: Selecting version 1.0.6-2 for installation.
+2015/04/14 17:11:19 Adding required dependency ca-certificates: Selecting version 2.3-1 for installation.
+2015/04/14 17:11:19 Adding required dependency crypt: Selecting version 1.2-1 for installation.
+2015/04/14 17:11:19 Adding required dependency cygwin-devel: Selecting version 1.7.35-1 for installation.
+2015/04/14 17:11:19 Adding required dependency groff: Selecting version 1.22.3-1 for installation.
+2015/04/14 17:11:19 Adding required dependency less: Selecting version 458-2 for installation.
+2015/04/14 17:11:19 Adding required dependency libargp: Selecting version 20110921-2 for installation.
+2015/04/14 17:11:19 Adding required dependency libatomic1: Selecting version 4.9.2-3 for installation.
+2015/04/14 17:11:19 Adding required dependency libattr1: Selecting version 2.4.46-1 for installation.
+2015/04/14 17:11:19 Adding required dependency libblkid1: Selecting version 2.25.2-2 for installation.
+2015/04/14 17:11:19 Adding required dependency libbz2_1: Selecting version 1.0.6-2 for installation.
+2015/04/14 17:11:19 Adding required dependency libcloog-isl4: Selecting version 0.18.0-2 for installation.
+2015/04/14 17:11:19 Adding required dependency libffi6: Selecting version 3.2.1-1 for installation.
+2015/04/14 17:11:19 Adding required dependency libgcc1: Selecting version 4.9.2-3 for installation.
+2015/04/14 17:11:19 Adding required dependency libgdbm4: Selecting version 1.8.3-20 for installation.
+2015/04/14 17:11:19 Adding required dependency libgmp10: Selecting version 6.0.0a-2 for installation.
+2015/04/14 17:11:19 Adding required dependency libgomp1: Selecting version 4.9.2-3 for installation.
+2015/04/14 17:11:19 Adding required dependency libguile17: Selecting version 1.8.8-1 for installation.
+2015/04/14 17:11:19 Adding required dependency libiconv: Selecting version 1.14-3 for installation.
+2015/04/14 17:11:19 Adding required dependency libiconv2: Selecting version 1.14-3 for installation.
+2015/04/14 17:11:19 Adding required dependency libintl8: Selecting version 0.19.4-1 for installation.
+2015/04/14 17:11:19 Adding required dependency libisl10: Selecting version 0.11.1-2 for installation.
+2015/04/14 17:11:19 Adding required dependency libltdl7: Selecting version 2.4.6-1 for installation.
+2015/04/14 17:11:19 Adding required dependency liblzma5: Selecting version 5.0.8-1 for installation.
+2015/04/14 17:11:19 Adding required dependency libmpc3: Selecting version 1.0.3-1 for installation.
+2015/04/14 17:11:19 Adding required dependency libmpfr4: Selecting version 3.1.2-2 for installation.
+2015/04/14 17:11:19 Adding required dependency libncursesw10: Selecting version 5.9-20150404-1 for installation.
+2015/04/14 17:11:19 Adding required dependency libp11-kit0: Selecting version 0.20.7-1 for installation.
+2015/04/14 17:11:19 Adding required dependency libpcre1: Selecting version 8.36-1 for installation.
+2015/04/14 17:11:19 Adding required dependency libpipeline1: Selecting version 1.4.0-1 for installation.
+2015/04/14 17:11:19 Adding required dependency libpopt0: Selecting version 1.16-1 for installation.
+2015/04/14 17:11:19 Adding required dependency libquadmath0: Selecting version 4.9.2-3 for installation.
+2015/04/14 17:11:19 Adding required dependency libsmartcols1: Selecting version 2.25.2-2 for installation.
+2015/04/14 17:11:19 Adding required dependency libssp0: Selecting version 4.9.2-3 for installation.
+2015/04/14 17:11:19 Adding required dependency libstdc++6: Selecting version 4.9.2-3 for installation.
+2015/04/14 17:11:19 Adding required dependency libtasn1_6: Selecting version 4.2-1 for installation.
+2015/04/14 17:11:19 Adding required dependency libuuid1: Selecting version 2.25.2-2 for installation.
+2015/04/14 17:11:19 Adding required dependency lynx: Selecting version 2.8.7-1 for installation.
+2015/04/14 17:11:19 Adding required dependency p11-kit: Selecting version 0.20.7-1 for installation.
+2015/04/14 17:11:19 Adding required dependency p11-kit-trust: Selecting version 0.20.7-1 for installation.
+2015/04/14 17:11:19 Adding required dependency popt: Selecting version 1.16-1 for installation.
+2015/04/14 17:11:19 Adding required dependency w32api-headers: Selecting version 3.3.0-2 for installation.
+2015/04/14 17:11:19 Adding required dependency w32api-runtime: Selecting version 3.3.0-1 for installation.
+2015/04/14 17:11:19 Adding required dependency windows-default-manifest: Selecting version 6.4-1 for installation.
+2015/04/14 17:11:19 Adding required dependency xz: Selecting version 5.0.8-1 for installation.
+2015/04/14 17:11:19 Adding required dependency zlib-devel: Selecting version 1.2.8-3 for installation.
+2015/04/14 17:11:19 Adding required dependency zlib0: Selecting version 1.2.8-3 for installation.
+2015/04/14 17:11:19 Adding required dependency _autorebase: Selecting version 001002-1 for installation.
+2015/04/14 17:11:19 Adding required dependency _update-info-dir: Selecting version 01376-1 for installation.
+2015/04/14 17:11:20 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/_autorebase/_autorebase-001002-1.tar.xz
+2015/04/14 17:11:22 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/_update-info-dir/_update-info-dir-01376-1.tar.bz2
+2015/04/14 17:11:23 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2015/04/14 17:11:23 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/base-cygwin/base-cygwin-3.5-1.tar.xz
+2015/04/14 17:11:27 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/base-files/base-files-4.2-3.tar.xz
+2015/04/14 17:11:40 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/bash/bash-4.1.17-9.tar.xz
+2015/04/14 17:12:45 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/binutils/binutils-2.25-1.tar.xz
+2015/04/14 17:12:52 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/bzip2/bzip2-1.0.6-2.tar.bz2
+2015/04/14 17:12:58 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/ca-certificates/ca-certificates-2.3-1.tar.xz
+2015/04/14 17:13:28 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/coreutils/coreutils-8.23-4.tar.xz
+2015/04/14 17:13:29 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/crypt/crypt-1.2-1.tar.bz2
+2015/04/14 17:13:30 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/cygutils/cygutils-1.4.14-1.tar.bz2
+2015/04/14 17:13:44 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/cygwin/cygwin-1.7.33-1.tar.xz
+2015/04/14 17:13:58 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/cygwin/cygwin-devel/cygwin-devel-1.7.35-1.tar.xz
+2015/04/14 17:14:01 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/dash/dash-0.5.8-3.tar.xz
+2015/04/14 17:14:01 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/editrights/editrights-1.03-1.tar.xz
+2015/04/14 17:14:08 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/file/file-5.20-1.tar.xz
+2015/04/14 17:14:18 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/findutils/findutils-4.5.12-1.tar.xz
+2015/04/14 17:14:31 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/gawk/gawk-4.1.1-1.tar.xz
+2015/04/14 17:27:52 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gcc/gcc-core/gcc-core-4.9.2-3.tar.xz
+2015/04/14 17:27:53 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/getent/getent-2.18.90-4.tar.xz
+2015/04/14 17:27:58 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/grep/grep-2.21-2.tar.xz
+2015/04/14 17:31:10 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/groff/groff-1.22.3-1.tar.xz
+2015/04/14 17:31:13 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/gzip/gzip-1.6-1.tar.xz
+2015/04/14 17:31:14 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/hostname/hostname-3.13-1.tar.bz2
+2015/04/14 17:31:24 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/texinfo/info/info-5.2-3.tar.xz
+2015/04/14 17:31:25 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/ipc-utils/ipc-utils-1.0-1.tar.bz2
+2015/04/14 17:31:29 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/less/less-458-2.tar.xz
+2015/04/14 17:31:30 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/libargp/libargp-20110921-2.tar.bz2
+2015/04/14 17:31:33 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gcc/libatomic1/libatomic1-4.9.2-3.tar.xz
+2015/04/14 17:31:33 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2015/04/14 17:31:38 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/util-linux/libblkid1/libblkid1-2.25.2-2.tar.xz
+2015/04/14 17:31:38 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/bzip2/libbz2_1/libbz2_1-1.0.6-2.tar.bz2
+2015/04/14 17:31:40 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/cloog-isl/libcloog-isl4/libcloog-isl4-0.18.0-2.tar.bz2
+2015/04/14 17:31:44 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/libffi/libffi6/libffi6-3.2.1-1.tar.xz
+2015/04/14 17:31:48 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gcc/libgcc1/libgcc1-4.9.2-3.tar.xz
+2015/04/14 17:31:48 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/gdbm/libgdbm4/libgdbm4-1.8.3-20.tar.bz2
+2015/04/14 17:31:53 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/gmp/libgmp10/libgmp10-6.0.0a-2.tar.xz
+2015/04/14 17:32:03 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gcc/libgomp1/libgomp1-4.9.2-3.tar.xz
+2015/04/14 17:32:44 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/guile/libguile17/libguile17-1.8.8-1.tar.xz
+2015/04/14 17:32:53 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/libiconv/libiconv-1.14-3.tar.xz
+2015/04/14 17:33:44 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2015/04/14 17:33:47 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gettext/libintl8/libintl8-0.19.4-1.tar.xz
+2015/04/14 17:33:57 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/isl/libisl10/libisl10-0.11.1-2.tar.bz2
+2015/04/14 17:34:01 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/libtool/libltdl7/libltdl7-2.4.6-1.tar.xz
+2015/04/14 17:34:07 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/xz/liblzma5/liblzma5-5.0.8-1.tar.xz
+2015/04/14 17:34:13 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/mpclib/libmpc3/libmpc3-1.0.3-1.tar.xz
+2015/04/14 17:34:17 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/mpfr/libmpfr4/libmpfr4-3.1.2-2.tar.xz
+2015/04/14 17:34:54 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/ncurses/libncursesw10/libncursesw10-5.9-20150404-1.tar.xz
+2015/04/14 17:35:22 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/openssl/libopenssl100/libopenssl100-1.0.1k-1.tar.xz
+2015/04/14 17:35:25 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/p11-kit/libp11-kit0/libp11-kit0-0.20.7-1.tar.xz
+2015/04/14 17:35:29 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/pcre/libpcre1/libpcre1-8.36-1.tar.xz
+2015/04/14 17:35:32 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2015/04/14 17:35:32 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/popt/libpopt0/libpopt0-1.16-1.tar.xz
+2015/04/14 17:35:45 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gcc/libquadmath0/libquadmath0-4.9.2-3.tar.xz
+2015/04/14 17:35:48 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/readline/libreadline7/libreadline7-6.1.2-4.tar.xz
+2015/04/14 17:35:52 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-2.tar.xz
+2015/04/14 17:35:53 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gcc/libssp0/libssp0-4.9.2-3.tar.xz
+2015/04/14 17:36:10 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gcc/libstdc++6/libstdc++6-4.9.2-3.tar.xz
+2015/04/14 17:36:11 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/libtasn1/libtasn1_6/libtasn1_6-4.2-1.tar.xz
+2015/04/14 17:36:12 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/util-linux/libuuid1/libuuid1-2.25.2-2.tar.xz
+2015/04/14 17:36:13 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/login/login-1.11-1.tar.xz
+2015/04/14 17:36:44 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/lynx/lynx-2.8.7-1.tar.bz2
+2015/04/14 17:37:10 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/make/make-4.1-1.tar.xz
+2015/04/14 17:37:24 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/man-db/man-db-2.6.7-2.tar.xz
+2015/04/14 17:37:26 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/mintty/mintty-1.1.3-1.tar.bz2
+2015/04/14 17:37:36 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/openssl/openssl-1.0.1k-1.tar.xz
+2015/04/14 17:37:38 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/p11-kit/p11-kit-0.20.7-1.tar.xz
+2015/04/14 17:37:40 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/p11-kit/p11-kit-trust/p11-kit-trust-0.20.7-1.tar.xz
+2015/04/14 17:37:42 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/popt/popt-1.16-1.tar.xz
+2015/04/14 17:37:45 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/rebase/rebase-4.4.1-1.tar.bz2
+2015/04/14 17:37:46 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/run/run-1.3.3-1.tar.xz
+2015/04/14 17:37:51 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/sed/sed-4.2.2-3.tar.bz2
+2015/04/14 17:38:03 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/tar/tar-1.27.1-1.tar.xz
+2015/04/14 17:38:04 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/ncurses/terminfo/terminfo-5.9-20141213-1.tar.xz
+2015/04/14 17:38:09 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/tzcode/tzcode-2014j-1.tar.xz
+2015/04/14 17:38:18 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/util-linux/util-linux-2.25.2-1.tar.xz
+2015/04/14 17:38:24 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/vim/vim-minimal/vim-minimal-7.4.560-1.tar.xz
+2015/04/14 17:39:05 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/w32api-headers/w32api-headers-3.3.0-2.tar.xz
+2015/04/14 17:39:11 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/w32api-runtime/w32api-runtime-3.3.0-1.tar.xz
+2015/04/14 17:39:12 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/which/which-2.20-2.tar.bz2
+2015/04/14 17:39:13 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/windows-default-manifest/windows-default-manifest-6.4-1.tar.xz
+2015/04/14 17:39:28 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/xz/xz-5.0.8-1.tar.xz
+2015/04/14 17:39:31 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/zlib/zlib-devel/zlib-devel-1.2.8-3.tar.xz
+2015/04/14 17:39:34 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/zlib/zlib0/zlib0-1.2.8-3.tar.xz
+2015/04/14 17:39:38 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/_autorebase/_autorebase-001002-1.tar.xz
+2015/04/14 17:39:38 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/_update-info-dir/_update-info-dir-01376-1.tar.bz2
+2015/04/14 17:39:38 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2015/04/14 17:39:39 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/base-cygwin/base-cygwin-3.5-1.tar.xz
+2015/04/14 17:39:39 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/base-files/base-files-4.2-3.tar.xz
+2015/04/14 17:39:39 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/bash/bash-4.1.17-9.tar.xz
+2015/04/14 17:39:41 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/binutils/binutils-2.25-1.tar.xz
+2015/04/14 17:39:43 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/bzip2/bzip2-1.0.6-2.tar.bz2
+2015/04/14 17:39:44 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/ca-certificates/ca-certificates-2.3-1.tar.xz
+2015/04/14 17:39:44 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/coreutils/coreutils-8.23-4.tar.xz
+2015/04/14 17:39:48 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/crypt/crypt-1.2-1.tar.bz2
+2015/04/14 17:39:48 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/cygutils/cygutils-1.4.14-1.tar.bz2
+2015/04/14 17:39:48 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/cygwin/cygwin-1.7.33-1.tar.xz
+2015/04/14 17:39:49 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/cygwin/cygwin-devel/cygwin-devel-1.7.35-1.tar.xz
+2015/04/14 17:39:51 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/dash/dash-0.5.8-3.tar.xz
+2015/04/14 17:39:51 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/editrights/editrights-1.03-1.tar.xz
+2015/04/14 17:39:51 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/file/file-5.20-1.tar.xz
+2015/04/14 17:39:52 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/findutils/findutils-4.5.12-1.tar.xz
+2015/04/14 17:39:52 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/gawk/gawk-4.1.1-1.tar.xz
+2015/04/14 17:39:53 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gcc/gcc-core/gcc-core-4.9.2-3.tar.xz
+2015/04/14 17:39:57 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/getent/getent-2.18.90-4.tar.xz
+2015/04/14 17:39:57 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/grep/grep-2.21-2.tar.xz
+2015/04/14 17:39:58 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/groff/groff-1.22.3-1.tar.xz
+2015/04/14 17:40:04 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/gzip/gzip-1.6-1.tar.xz
+2015/04/14 17:40:05 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/hostname/hostname-3.13-1.tar.bz2
+2015/04/14 17:40:05 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/texinfo/info/info-5.2-3.tar.xz
+2015/04/14 17:40:05 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/ipc-utils/ipc-utils-1.0-1.tar.bz2
+2015/04/14 17:40:05 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/less/less-458-2.tar.xz
+2015/04/14 17:40:05 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/libargp/libargp-20110921-2.tar.bz2
+2015/04/14 17:40:06 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gcc/libatomic1/libatomic1-4.9.2-3.tar.xz
+2015/04/14 17:40:06 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2015/04/14 17:40:06 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/util-linux/libblkid1/libblkid1-2.25.2-2.tar.xz
+2015/04/14 17:40:06 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/bzip2/libbz2_1/libbz2_1-1.0.6-2.tar.bz2
+2015/04/14 17:40:06 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/cloog-isl/libcloog-isl4/libcloog-isl4-0.18.0-2.tar.bz2
+2015/04/14 17:40:06 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/libffi/libffi6/libffi6-3.2.1-1.tar.xz
+2015/04/14 17:40:06 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gcc/libgcc1/libgcc1-4.9.2-3.tar.xz
+2015/04/14 17:40:06 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/gdbm/libgdbm4/libgdbm4-1.8.3-20.tar.bz2
+2015/04/14 17:40:06 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/gmp/libgmp10/libgmp10-6.0.0a-2.tar.xz
+2015/04/14 17:40:06 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gcc/libgomp1/libgomp1-4.9.2-3.tar.xz
+2015/04/14 17:40:06 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/guile/libguile17/libguile17-1.8.8-1.tar.xz
+2015/04/14 17:40:07 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/libiconv/libiconv-1.14-3.tar.xz
+2015/04/14 17:40:08 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2015/04/14 17:40:08 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gettext/libintl8/libintl8-0.19.4-1.tar.xz
+2015/04/14 17:40:08 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/isl/libisl10/libisl10-0.11.1-2.tar.bz2
+2015/04/14 17:40:08 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/libtool/libltdl7/libltdl7-2.4.6-1.tar.xz
+2015/04/14 17:40:08 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/xz/liblzma5/liblzma5-5.0.8-1.tar.xz
+2015/04/14 17:40:08 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/mpclib/libmpc3/libmpc3-1.0.3-1.tar.xz
+2015/04/14 17:40:08 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/mpfr/libmpfr4/libmpfr4-3.1.2-2.tar.xz
+2015/04/14 17:40:08 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/ncurses/libncursesw10/libncursesw10-5.9-20150404-1.tar.xz
+2015/04/14 17:40:08 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/openssl/libopenssl100/libopenssl100-1.0.1k-1.tar.xz
+2015/04/14 17:40:09 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/p11-kit/libp11-kit0/libp11-kit0-0.20.7-1.tar.xz
+2015/04/14 17:40:09 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/pcre/libpcre1/libpcre1-8.36-1.tar.xz
+2015/04/14 17:40:09 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2015/04/14 17:40:09 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gcc/libquadmath0/libquadmath0-4.9.2-3.tar.xz
+2015/04/14 17:40:09 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/readline/libreadline7/libreadline7-6.1.2-4.tar.xz
+2015/04/14 17:40:09 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-2.tar.xz
+2015/04/14 17:40:09 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gcc/libssp0/libssp0-4.9.2-3.tar.xz
+2015/04/14 17:40:09 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/gcc/libstdc++6/libstdc++6-4.9.2-3.tar.xz
+2015/04/14 17:40:09 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/libtasn1/libtasn1_6/libtasn1_6-4.2-1.tar.xz
+2015/04/14 17:40:09 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/util-linux/libuuid1/libuuid1-2.25.2-2.tar.xz
+2015/04/14 17:40:09 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/login/login-1.11-1.tar.xz
+2015/04/14 17:40:09 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/lynx/lynx-2.8.7-1.tar.bz2
+2015/04/14 17:40:11 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/make/make-4.1-1.tar.xz
+2015/04/14 17:40:11 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/man-db/man-db-2.6.7-2.tar.xz
+2015/04/14 17:40:13 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/mintty/mintty-1.1.3-1.tar.bz2
+2015/04/14 17:40:13 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/openssl/openssl-1.0.1k-1.tar.xz
+2015/04/14 17:40:14 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/p11-kit/p11-kit-0.20.7-1.tar.xz
+2015/04/14 17:40:14 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/p11-kit/p11-kit-trust/p11-kit-trust-0.20.7-1.tar.xz
+2015/04/14 17:40:14 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/popt/popt-1.16-1.tar.xz
+2015/04/14 17:40:15 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/rebase/rebase-4.4.1-1.tar.bz2
+2015/04/14 17:40:15 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/run/run-1.3.3-1.tar.xz
+2015/04/14 17:40:15 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/sed/sed-4.2.2-3.tar.bz2
+2015/04/14 17:40:15 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/tar/tar-1.27.1-1.tar.xz
+2015/04/14 17:40:16 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/ncurses/terminfo/terminfo-5.9-20141213-1.tar.xz
+2015/04/14 17:40:17 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/tzcode/tzcode-2014j-1.tar.xz
+2015/04/14 17:40:25 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/util-linux/util-linux-2.25.2-1.tar.xz
+2015/04/14 17:40:27 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/vim/vim-minimal/vim-minimal-7.4.560-1.tar.xz
+2015/04/14 17:40:27 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/w32api-headers/w32api-headers-3.3.0-2.tar.xz
+2015/04/14 17:40:37 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/w32api-runtime/w32api-runtime-3.3.0-1.tar.xz
+2015/04/14 17:40:41 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/which/which-2.20-2.tar.bz2
+2015/04/14 17:40:41 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/windows-default-manifest/windows-default-manifest-6.4-1.tar.xz
+2015/04/14 17:40:41 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/xz/xz-5.0.8-1.tar.xz
+2015/04/14 17:40:42 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/zlib/zlib-devel/zlib-devel-1.2.8-3.tar.xz
+2015/04/14 17:40:42 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fmirror.calvin.edu%2fcygwin%2f/x86/release/zlib/zlib0/zlib0-1.2.8-3.tar.xz
+2015/04/14 17:40:42 Changing gid back to original
+2015/04/14 17:40:42 running: D:\System\Compilers\cygwin\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2015/04/14 17:40:43 abnormal exit: exit code=127
+2015/04/14 17:40:43 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/000-cygwin-post-install.sh"
+2015/04/14 17:40:43 abnormal exit: exit code=-1073741511
+2015/04/14 17:40:43 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/update-info-dir.sh"
+2015/04/14 17:40:43 abnormal exit: exit code=-1073741511
+2015/04/14 17:40:43 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/coreutils.sh"
+2015/04/14 17:40:43 abnormal exit: exit code=-1073741511
+2015/04/14 17:40:43 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/bash.sh"
+2015/04/14 17:40:43 abnormal exit: exit code=-1073741511
+2015/04/14 17:40:43 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-mketc.sh"
+2015/04/14 17:40:43 abnormal exit: exit code=-1073741511
+2015/04/14 17:40:43 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-profile.sh"
+2015/04/14 17:40:43 abnormal exit: exit code=-1073741511
+2015/04/14 17:40:43 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/ca-certificates.sh"
+2015/04/14 17:40:43 abnormal exit: exit code=-1073741511
+2015/04/14 17:40:43 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/lynx.sh"
+2015/04/14 17:40:43 abnormal exit: exit code=-1073741511
+2015/04/14 17:40:43 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/man-db.sh"
+2015/04/14 17:40:43 abnormal exit: exit code=-1073741511
+2015/04/14 17:40:43 Changing gid to Administrators
+2015/04/14 17:45:00 note: Installation Complete
+2015/04/14 17:45:00 Ending cygwin install
+2015/04/14 17:50:59 Starting cygwin install, version 2.870
+2015/04/14 17:50:59 User has backup/restore rights
+2015/04/14 17:50:59 Current Directory: C:\Users\nidhalkratos\temp
+2015/04/14 17:50:59 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2015/04/14 17:51:01 source: download
+2015/04/14 17:51:15 source: from local dir
+2015/04/14 17:51:19 source: network install
+2015/04/14 17:51:23 root: D:\System\Compilers\cygwin system
+2015/04/14 17:51:24 Selected local directory: C:\Users\nidhalkratos\temp
+2015/04/14 17:51:26 net: Direct
+2015/04/14 17:51:35 site: http://download.nus.edu.sg/mirror/cygwin/
+2015/04/14 17:52:22 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2015/04/14 17:54:05 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/bash/bash-4.3.33-1.tar.xz
+2015/04/14 17:56:53 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/cygwin/cygwin-1.7.35-1.tar.xz
+2015/04/14 17:57:09 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/file/file-5.22-1.tar.xz
+2015/04/14 17:57:29 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/openssl/libopenssl100/libopenssl100-1.0.2a-1.tar.xz
+2015/04/14 17:57:36 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/readline/libreadline7/libreadline7-6.3.8-1.tar.xz
+2015/04/14 17:58:01 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/openssl/openssl-1.0.2a-1.tar.xz
+2015/04/14 17:58:06 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/ncurses/terminfo/terminfo-5.9-20150404-1.tar.xz
+2015/04/14 17:59:24 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/util-linux/util-linux-2.25.2-2.tar.xz
+2015/04/14 17:59:44 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/vim/vim-minimal/vim-minimal-7.4.692-1.tar.xz
+2015/04/14 17:59:46 Running preremove script for  base-cygwin
+2015/04/14 17:59:46 Running preremove script for  bash
+2015/04/14 17:59:46 Running preremove script for  cygwin
+2015/04/14 17:59:46 Running preremove script for  file
+2015/04/14 17:59:46 Running preremove script for  libopenssl100
+2015/04/14 17:59:46 Running preremove script for  libreadline7
+2015/04/14 17:59:46 Running preremove script for  openssl
+2015/04/14 17:59:46 Running preremove script for  terminfo
+2015/04/14 17:59:46 Running preremove script for  util-linux
+2015/04/14 17:59:46 Running preremove script for  vim-minimal
+2015/04/14 17:59:46 Uninstalling base-cygwin
+2015/04/14 17:59:46 Uninstalling bash
+2015/04/14 17:59:46 Uninstalling cygwin
+2015/04/14 17:59:46 Uninstalling file
+2015/04/14 17:59:46 Uninstalling libopenssl100
+2015/04/14 17:59:46 Uninstalling libreadline7
+2015/04/14 17:59:46 Uninstalling openssl
+2015/04/14 17:59:46 Uninstalling terminfo
+2015/04/14 17:59:46 Uninstalling util-linux
+2015/04/14 17:59:46 Uninstalling vim-minimal
+2015/04/14 17:59:46 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2015/04/14 17:59:46 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/bash/bash-4.3.33-1.tar.xz
+2015/04/14 17:59:48 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/cygwin/cygwin-1.7.35-1.tar.xz
+2015/04/14 17:59:49 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/file/file-5.22-1.tar.xz
+2015/04/14 17:59:49 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/openssl/libopenssl100/libopenssl100-1.0.2a-1.tar.xz
+2015/04/14 17:59:50 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/readline/libreadline7/libreadline7-6.3.8-1.tar.xz
+2015/04/14 17:59:50 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/openssl/openssl-1.0.2a-1.tar.xz
+2015/04/14 17:59:51 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/ncurses/terminfo/terminfo-5.9-20150404-1.tar.xz
+2015/04/14 17:59:51 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/util-linux/util-linux-2.25.2-2.tar.xz
+2015/04/14 17:59:53 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/vim/vim-minimal/vim-minimal-7.4.692-1.tar.xz
+2015/04/14 17:59:53 Changing gid back to original
+2015/04/14 17:59:53 running: D:\System\Compilers\cygwin\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2015/04/14 18:00:02 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/000-cygwin-post-install.sh"
+2015/04/14 18:00:02 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/bash.sh"
+2015/04/14 18:00:02 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-mketc.sh"
+2015/04/14 18:00:03 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-profile.sh"
+2015/04/14 18:00:04 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/ca-certificates.sh"
+2015/04/14 18:00:05 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/coreutils.sh"
+2015/04/14 18:00:05 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/lynx.sh"
+2015/04/14 18:00:06 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/man-db.sh"
+2015/04/14 18:00:06 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/update-info-dir.sh"
+2015/04/14 18:00:08 Changing gid to Administrators
+2015/04/14 18:01:49 note: Installation Complete
+2015/04/14 18:01:49 Ending cygwin install

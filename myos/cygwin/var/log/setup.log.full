@@ -1,0 +1,1819 @@
+2015/04/14 17:50:59 Starting cygwin install, version 2.870
+2015/04/14 17:50:59 User has backup/restore rights
+2015/04/14 17:50:59 Current Directory: C:\Users\nidhalkratos\temp
+2015/04/14 17:50:59 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2015/04/14 17:51:01 source: download
+2015/04/14 17:51:15 source: from local dir
+2015/04/14 17:51:19 source: network install
+2015/04/14 17:51:23 root: D:\System\Compilers\cygwin system
+2015/04/14 17:51:24 Selected local directory: C:\Users\nidhalkratos\temp
+2015/04/14 17:51:26 net: Direct
+Loaded cached mirror list
+get_url_to_membuf http://cygwin.com/mirrors.lst
+getUrlToStream http://cygwin.com/mirrors.lst
+2015/04/14 17:51:35 site: http://download.nus.edu.sg/mirror/cygwin/
+get_url_to_membuf http://download.nus.edu.sg/mirror/cygwin/x86/setup.bz2
+getUrlToStream http://download.nus.edu.sg/mirror/cygwin/x86/setup.bz2
+get_url_to_membuf http://download.nus.edu.sg/mirror/cygwin/x86/setup.bz2.sig
+getUrlToStream http://download.nus.edu.sg/mirror/cygwin/x86/setup.bz2.sig
+get_url_to_file http://download.nus.edu.sg/mirror/cygwin//x86/release/base-cygwin/base-cygwin-3.8-1.tar.xz C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/base-cygwin/base-cygwin-3.8-1.tar.xz.tmp
+2015/04/14 17:52:22 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+get_url_to_file http://download.nus.edu.sg/mirror/cygwin//x86/release/bash/bash-4.3.33-1.tar.xz C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/bash/bash-4.3.33-1.tar.xz.tmp
+2015/04/14 17:54:05 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/bash/bash-4.3.33-1.tar.xz
+get_url_to_file http://download.nus.edu.sg/mirror/cygwin//x86/release/cygwin/cygwin-1.7.35-1.tar.xz C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/cygwin/cygwin-1.7.35-1.tar.xz.tmp
+2015/04/14 17:56:53 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/cygwin/cygwin-1.7.35-1.tar.xz
+get_url_to_file http://download.nus.edu.sg/mirror/cygwin//x86/release/file/file-5.22-1.tar.xz C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/file/file-5.22-1.tar.xz.tmp
+2015/04/14 17:57:09 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/file/file-5.22-1.tar.xz
+get_url_to_file http://download.nus.edu.sg/mirror/cygwin//x86/release/openssl/libopenssl100/libopenssl100-1.0.2a-1.tar.xz C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/openssl/libopenssl100/libopenssl100-1.0.2a-1.tar.xz.tmp
+2015/04/14 17:57:29 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/openssl/libopenssl100/libopenssl100-1.0.2a-1.tar.xz
+get_url_to_file http://download.nus.edu.sg/mirror/cygwin//x86/release/readline/libreadline7/libreadline7-6.3.8-1.tar.xz C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/readline/libreadline7/libreadline7-6.3.8-1.tar.xz.tmp
+2015/04/14 17:57:36 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/readline/libreadline7/libreadline7-6.3.8-1.tar.xz
+get_url_to_file http://download.nus.edu.sg/mirror/cygwin//x86/release/openssl/openssl-1.0.2a-1.tar.xz C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/openssl/openssl-1.0.2a-1.tar.xz.tmp
+2015/04/14 17:58:01 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/openssl/openssl-1.0.2a-1.tar.xz
+get_url_to_file http://download.nus.edu.sg/mirror/cygwin//x86/release/ncurses/terminfo/terminfo-5.9-20150404-1.tar.xz C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/ncurses/terminfo/terminfo-5.9-20150404-1.tar.xz.tmp
+2015/04/14 17:58:06 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/ncurses/terminfo/terminfo-5.9-20150404-1.tar.xz
+get_url_to_file http://download.nus.edu.sg/mirror/cygwin//x86/release/util-linux/util-linux-2.25.2-2.tar.xz C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/util-linux/util-linux-2.25.2-2.tar.xz.tmp
+2015/04/14 17:59:24 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/util-linux/util-linux-2.25.2-2.tar.xz
+get_url_to_file http://download.nus.edu.sg/mirror/cygwin//x86/release/vim/vim-minimal/vim-minimal-7.4.692-1.tar.xz C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/vim/vim-minimal/vim-minimal-7.4.692-1.tar.xz.tmp
+2015/04/14 17:59:44 Downloaded C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/vim/vim-minimal/vim-minimal-7.4.692-1.tar.xz
+Checking SHA512 for file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+SHA512 verified OK: file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/base-cygwin/base-cygwin-3.8-1.tar.xz 3af3f4bd622ae5b1526e397c249f5034d5ee8dd121f8cd62a4fa616cf32d66f3039fe88eeb390402650af1e05faf7ab2480d5fb67fa6307960f20c665529a0c0
+Checking SHA512 for file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/bash/bash-4.3.33-1.tar.xz
+SHA512 verified OK: file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/bash/bash-4.3.33-1.tar.xz f804cbeda26707c7ddfff05650b17bd6db9f8f14ad5ff87332015c60a923a6b6a838ccfc4d995067c05c1dcffb1e5acacb94dc6de5a7d6ce8b91d29b30af28cb
+Checking SHA512 for file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/cygwin/cygwin-1.7.35-1.tar.xz
+SHA512 verified OK: file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/cygwin/cygwin-1.7.35-1.tar.xz 805f91abeab310e80d6310e4385f2478b315aab1e82028abc15a03ec382d6ff7cc05636a4605b16f208899d9d3d00bb574d9f6610df7ff6b1baa59351c20d6f9
+Checking SHA512 for file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/file/file-5.22-1.tar.xz
+SHA512 verified OK: file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/file/file-5.22-1.tar.xz 8a9fd0380e8f2c0f6b633c07523e7d53822c9021d2972a4b2a1d1463b0d12a138f2f107cfc349a6efa996b426f0b3d9d12e72c7f879451f52ea118417da49b26
+Checking SHA512 for file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/openssl/libopenssl100/libopenssl100-1.0.2a-1.tar.xz
+SHA512 verified OK: file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/openssl/libopenssl100/libopenssl100-1.0.2a-1.tar.xz 3687e701e4bec73a2de07de7475a96a494b851a8efa996e799a7bc52215611a83fcbc9c0a0755e83785a76dd803dc3f7a78fb4cec1b6319750ef5f93e0313e25
+Checking SHA512 for file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/readline/libreadline7/libreadline7-6.3.8-1.tar.xz
+SHA512 verified OK: file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/readline/libreadline7/libreadline7-6.3.8-1.tar.xz 9039039bf8100aef1150b499fa618d4bd80a58b9ac7fe0b4e080d58aee5fc820d8f550f110e4df6e164d9599005ec0c40399069cbb633ff72ee85be2aad078dc
+Checking SHA512 for file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/openssl/openssl-1.0.2a-1.tar.xz
+SHA512 verified OK: file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/openssl/openssl-1.0.2a-1.tar.xz 25d0dcb1dd25cb5a6a322e677903c23e8edb686372c55fd6012918dd4711c2ea0cb3155a1c9ec527c1a7c587d1ebd5579365f2a05e9412aff2d757e4a2dbf204
+Checking SHA512 for file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/ncurses/terminfo/terminfo-5.9-20150404-1.tar.xz
+SHA512 verified OK: file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/ncurses/terminfo/terminfo-5.9-20150404-1.tar.xz 3bffeb68795aa3b8f71dff027a5de3338a86a47c096566e0de55e56eeda168bab0ee461d5a86e586e9ff2681ef73d24f29fb372e07a1ad5ee4c05f6a987744d9
+Checking SHA512 for file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/util-linux/util-linux-2.25.2-2.tar.xz
+SHA512 verified OK: file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/util-linux/util-linux-2.25.2-2.tar.xz c94fbff1fda4f49db0536d155ac7065db82dc6878ac0cc02eed65d35009dac6cbc12a44c1c5d5e0a8a1d215c8605eca2db46483a92f6ddb3a7cfd61b25120fec
+Checking SHA512 for file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/vim/vim-minimal/vim-minimal-7.4.692-1.tar.xz
+SHA512 verified OK: file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/vim/vim-minimal/vim-minimal-7.4.692-1.tar.xz 4cfc2b53ea1c2bf72314c4bcc6e5bc650de71f948a3fb878c121d1560d7be7afbee9cd84cf5bb09f9ea23b2a1be262e1ad652b14b3a75cd0f8c6bbf7651611b4
+2015/04/14 17:59:46 Running preremove script for  base-cygwin
+2015/04/14 17:59:46 Running preremove script for  bash
+2015/04/14 17:59:46 Running preremove script for  cygwin
+2015/04/14 17:59:46 Running preremove script for  file
+2015/04/14 17:59:46 Running preremove script for  libopenssl100
+2015/04/14 17:59:46 Running preremove script for  libreadline7
+2015/04/14 17:59:46 Running preremove script for  openssl
+2015/04/14 17:59:46 Running preremove script for  terminfo
+2015/04/14 17:59:46 Running preremove script for  util-linux
+2015/04/14 17:59:46 Running preremove script for  vim-minimal
+2015/04/14 17:59:46 Uninstalling base-cygwin
+unlink D:\System\Compilers\cygwin/etc/postinstall/000-cygwin-post-install.sh
+2015/04/14 17:59:46 Uninstalling bash
+unlink D:\System\Compilers\cygwin/etc/postinstall/bash.sh
+unlink D:\System\Compilers\cygwin\bin/bash.exe
+unlink D:\System\Compilers\cygwin\bin/bashbug
+unlink D:\System\Compilers\cygwin\bin/sh.exe
+unlink D:\System\Compilers\cygwin/usr/include/bash/alias.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/ansi_stdlib.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/array.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/arrayfunc.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/assoc.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/bashansi.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/bashgetopt.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/bashhist.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/bashintl.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/bashjmp.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/bashline.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/bashtypes.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/builtins.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/chartypes.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/collsyms.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/command.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/common.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/config-bot.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/config-top.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/config.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/conftypes.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/dispose_cmd.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/error.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/execute_cmd.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/externs.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/filecntl.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/findcmd.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/flags.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/general.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/getopt.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/gettext.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/glob.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/hashcmd.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/hashlib.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/input.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/jobs.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/lsignames.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/mailcheck.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/make_cmd.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/maxpath.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/memalloc.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/ndir.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/ocache.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/parser.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/patchlevel.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/pathexp.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/pathnames.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/pcomplete.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/posixdir.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/posixjmp.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/posixselect.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/posixstat.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/posixtime.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/posixwait.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/quit.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/redir.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/shell.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/shmbutil.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/shtty.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/sig.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/siglist.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/signames.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/stdc.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/strmatch.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/subst.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/syntax.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/systimes.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/test.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/tilde.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/trap.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/typemax.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/unionwait.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/unwind_prot.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/variables.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/version.h
+unlink D:\System\Compilers\cygwin/usr/include/bash/xmalloc.h
+unlink D:\System\Compilers\cygwin\lib/libbash.dll.a
+unlink D:\System\Compilers\cygwin/usr/share/doc/bash/AUTHORS
+unlink D:\System\Compilers\cygwin/usr/share/doc/bash/ChangeLog
+unlink D:\System\Compilers\cygwin/usr/share/doc/bash/CHANGES
+unlink D:\System\Compilers\cygwin/usr/share/doc/bash/COMPAT
+unlink D:\System\Compilers\cygwin/usr/share/doc/bash/COPYING
+unlink D:\System\Compilers\cygwin/usr/share/doc/bash/html/bash.html
+unlink D:\System\Compilers\cygwin/usr/share/doc/bash/html/bashref.html
+unlink D:\System\Compilers\cygwin/usr/share/doc/bash/NEWS
+unlink D:\System\Compilers\cygwin/usr/share/doc/bash/NOTES
+unlink D:\System\Compilers\cygwin/usr/share/doc/bash/POSIX
+unlink D:\System\Compilers\cygwin/usr/share/doc/bash/RBASH
+unlink D:\System\Compilers\cygwin/usr/share/doc/bash/README
+unlink D:\System\Compilers\cygwin/usr/share/doc/Cygwin/bash.README
+unlink D:\System\Compilers\cygwin/usr/share/info/bash.info.gz
+unlink D:\System\Compilers\cygwin/usr/share/locale/af/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/bg/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/ca/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/cs/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/de/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/en@boldquot/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/en@quot/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/eo/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/es/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/et/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/fi/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/fr/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/ga/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/hu/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/id/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/ja/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/lt/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/nl/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/pl/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/pt_BR/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/ro/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/ru/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/sk/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/sv/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/tr/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/vi/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/zh_TW/LC_MESSAGES/bash.mo
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/alias.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/bash.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/bashbug.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/bash_builtins.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/bg.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/bind.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/break.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/builtin.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/caller.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/case.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/cd.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/command.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/compgen.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/complete.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/continue.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/declare.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/dirs.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/disown.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/do.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/done.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/elif.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/else.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/enable.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/esac.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/eval.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/exec.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/exit.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/export.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/fc.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/fg.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/fi.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/for.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/function.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/getopts.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/hash.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/help.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/history.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/if.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/in.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/jobs.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/let.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/local.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/logout.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/popd.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/pushd.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/read.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/readonly.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/return.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/select.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/set.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/sh.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/shift.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/shopt.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/source.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/suspend.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/then.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/time.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/times.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/trap.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/type.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/typeset.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/ulimit.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/umask.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/unalias.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/unset.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/until.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/wait.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/while.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/[.1.gz
+rmdir D:\System\Compilers\cygwin/usr/share/locale/en@quot/LC_MESSAGES
+rmdir D:\System\Compilers\cygwin/usr/share/locale/en@quot
+rmdir D:\System\Compilers\cygwin/usr/share/locale/en@boldquot/LC_MESSAGES
+rmdir D:\System\Compilers\cygwin/usr/share/locale/en@boldquot
+rmdir D:\System\Compilers\cygwin/usr/share/doc/bash/html
+rmdir D:\System\Compilers\cygwin/usr/share/doc/bash
+rmdir D:\System\Compilers\cygwin/usr/include/bash
+2015/04/14 17:59:46 Uninstalling cygwin
+unlink D:\System\Compilers\cygwin/etc/defaults/etc/cygserver.conf
+unlink D:\System\Compilers\cygwin\bin/cygwin1.dll
+unlink D:\System\Compilers\cygwin\bin/cygpath.exe
+unlink D:\System\Compilers\cygwin\bin/getconf.exe
+unlink D:\System\Compilers\cygwin\bin/getfacl.exe
+unlink D:\System\Compilers\cygwin\bin/ldd.exe
+unlink D:\System\Compilers\cygwin\bin/locale.exe
+unlink D:\System\Compilers\cygwin\bin/kill.exe
+unlink D:\System\Compilers\cygwin\bin/minidumper.exe
+unlink D:\System\Compilers\cygwin\bin/mkgroup.exe
+unlink D:\System\Compilers\cygwin\bin/mkpasswd.exe
+unlink D:\System\Compilers\cygwin\bin/mount.exe
+unlink D:\System\Compilers\cygwin\bin/passwd.exe
+unlink D:\System\Compilers\cygwin\bin/pldd.exe
+unlink D:\System\Compilers\cygwin\bin/ps.exe
+unlink D:\System\Compilers\cygwin\bin/regtool.exe
+unlink D:\System\Compilers\cygwin\bin/setfacl.exe
+unlink D:\System\Compilers\cygwin\bin/setmetamode.exe
+unlink D:\System\Compilers\cygwin\bin/ssp.exe
+unlink D:\System\Compilers\cygwin\bin/tzset.exe
+unlink D:\System\Compilers\cygwin\bin/umount.exe
+unlink D:\System\Compilers\cygwin\bin/dumper.exe
+unlink D:\System\Compilers\cygwin\bin/cygcheck.exe
+unlink D:\System\Compilers\cygwin\bin/cygwin-console-helper.exe
+unlink D:\System\Compilers\cygwin\bin/ldh.exe
+unlink D:\System\Compilers\cygwin\bin/strace.exe
+unlink D:\System\Compilers\cygwin\bin/cygserver-config
+unlink D:\System\Compilers\cygwin\bin/cyglsa.dll
+unlink D:\System\Compilers\cygwin\bin/cyglsa64.dll
+unlink D:\System\Compilers\cygwin\bin/cyglsa-config
+unlink D:\System\Compilers\cygwin/usr/sbin/cygserver.exe
+unlink D:\System\Compilers\cygwin/usr/share/doc/Cygwin/CYGWIN_LICENSE
+unlink D:\System\Compilers\cygwin/usr/share/doc/Cygwin/COPYING
+unlink D:\System\Compilers\cygwin/usr/share/doc/Cygwin/cygserver.README
+unlink D:\System\Compilers\cygwin/usr/share/doc/cygwin-1.7.33/COPYING
+unlink D:\System\Compilers\cygwin/usr/share/doc/cygwin-1.7.33/CYGWIN_LICENSE
+unlink D:\System\Compilers\cygwin/usr/share/doc/cygwin-1.7.33/COPYING.NEWLIB
+unlink D:\System\Compilers\cygwin/usr/share/doc/cygwin-1.7.33/README
+rmdir D:\System\Compilers\cygwin/usr/share/doc/cygwin-1.7.33
+2015/04/14 17:59:46 Uninstalling file
+unlink D:\System\Compilers\cygwin\bin/file.exe
+unlink D:\System\Compilers\cygwin/usr/share/doc/file/AUTHORS
+unlink D:\System\Compilers\cygwin/usr/share/doc/file/ChangeLog
+unlink D:\System\Compilers\cygwin/usr/share/doc/file/COPYING
+unlink D:\System\Compilers\cygwin/usr/share/doc/file/NEWS
+unlink D:\System\Compilers\cygwin/usr/share/doc/file/README
+unlink D:\System\Compilers\cygwin/usr/share/doc/file/TODO
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/file.1.gz
+unlink D:\System\Compilers\cygwin\bin/cygmagic-1.dll
+unlink D:\System\Compilers\cygwin/usr/share/file/magic
+unlink D:\System\Compilers\cygwin/usr/share/magic
+unlink D:\System\Compilers\cygwin/usr/share/misc/magic.mgc
+unlink D:\System\Compilers\cygwin/usr/share/misc/magic
+unlink D:\System\Compilers\cygwin/usr/share/man/man5/magic.5.gz
+rmdir D:\System\Compilers\cygwin/usr/share/misc
+rmdir D:\System\Compilers\cygwin/usr/share/file
+rmdir D:\System\Compilers\cygwin/usr/share/doc/file
+2015/04/14 17:59:46 Uninstalling libopenssl100
+unlink D:\System\Compilers\cygwin\bin/cygcrypto-1.0.0.dll
+unlink D:\System\Compilers\cygwin\bin/cygssl-1.0.0.dll
+unlink D:\System\Compilers\cygwin\lib/openssl-1.0.1/engines/lib4758cca.so
+unlink D:\System\Compilers\cygwin\lib/openssl-1.0.1/engines/libaep.so
+unlink D:\System\Compilers\cygwin\lib/openssl-1.0.1/engines/libatalla.so
+unlink D:\System\Compilers\cygwin\lib/openssl-1.0.1/engines/libcswift.so
+unlink D:\System\Compilers\cygwin\lib/openssl-1.0.1/engines/libgmp.so
+unlink D:\System\Compilers\cygwin\lib/openssl-1.0.1/engines/libchil.so
+unlink D:\System\Compilers\cygwin\lib/openssl-1.0.1/engines/libnuron.so
+unlink D:\System\Compilers\cygwin\lib/openssl-1.0.1/engines/libsureware.so
+unlink D:\System\Compilers\cygwin\lib/openssl-1.0.1/engines/libubsec.so
+unlink D:\System\Compilers\cygwin\lib/openssl-1.0.1/engines/libpadlock.so
+unlink D:\System\Compilers\cygwin\lib/openssl-1.0.1/engines/libcapi.so
+unlink D:\System\Compilers\cygwin\lib/openssl-1.0.1/engines/libgost.so
+rmdir D:\System\Compilers\cygwin\lib/openssl-1.0.1/engines
+rmdir D:\System\Compilers\cygwin\lib/openssl-1.0.1
+2015/04/14 17:59:46 Uninstalling libreadline7
+unlink D:\System\Compilers\cygwin\bin/cyghistory7.dll
+unlink D:\System\Compilers\cygwin\bin/cygreadline7.dll
+2015/04/14 17:59:46 Uninstalling openssl
+unlink D:\System\Compilers\cygwin\bin/openssl.exe
+unlink D:\System\Compilers\cygwin/usr/share/doc/openssl/CHANGES
+unlink D:\System\Compilers\cygwin/usr/share/doc/openssl/FAQ
+unlink D:\System\Compilers\cygwin/usr/share/doc/openssl/LICENSE
+unlink D:\System\Compilers\cygwin/usr/share/doc/openssl/NEWS
+unlink D:\System\Compilers\cygwin/usr/share/doc/openssl/README
+unlink D:\System\Compilers\cygwin/usr/share/doc/openssl/CHANGES.SSLeay
+unlink D:\System\Compilers\cygwin/usr/share/doc/openssl/INSTALL
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/spkac.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/ts.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/tsget.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/verify.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/version.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/x509.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/sha.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/sha1.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/mdc2.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/ripemd160.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/sha224.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/sha256.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/sha384.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/sha512.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/md2.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/md4.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/md5.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/asn1parse.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/c_rehash.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/ca.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/ciphers.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/cms.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/crl.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/crl2pkcs7.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/dgst.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/dhparam.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/dsa.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/dsaparam.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/ec.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/ecparam.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/enc.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/errstr.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/gendsa.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/genpkey.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/genrsa.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/nseq.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/ocsp.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/openssl.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/passwd.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/pkcs12.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/pkcs7.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/pkcs8.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/pkey.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/pkeyparam.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/pkeyutl.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/rand.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/req.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/rsa.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/rsautl.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/s_client.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/s_server.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/s_time.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/sess_id.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/smime.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/speed.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/dss1.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man5/config.5.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man5/x509v3_config.5.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man7/des_modes.7.gz
+unlink D:\System\Compilers\cygwin/usr/ssl/misc/CA.sh
+unlink D:\System\Compilers\cygwin/usr/ssl/misc/c_hash
+unlink D:\System\Compilers\cygwin/usr/ssl/misc/c_info
+unlink D:\System\Compilers\cygwin/usr/ssl/misc/c_issuer
+unlink D:\System\Compilers\cygwin/usr/ssl/misc/c_name
+unlink D:\System\Compilers\cygwin/usr/ssl/certs/README.RootCerts
+unlink D:\System\Compilers\cygwin/usr/ssl/certs/demo/ca-cert.pem
+unlink D:\System\Compilers\cygwin/usr/ssl/certs/demo/dsa-ca.pem
+unlink D:\System\Compilers\cygwin/usr/ssl/certs/demo/dsa-pca.pem
+unlink D:\System\Compilers\cygwin/usr/ssl/certs/demo/pca-cert.pem
+unlink D:\System\Compilers\cygwin/usr/ssl/certs/expired/ICE.crl
+unlink D:\System\Compilers\cygwin/usr/ssl/openssl.cnf
+rmdir D:\System\Compilers\cygwin/usr/ssl/private
+rmdir D:\System\Compilers\cygwin/usr/ssl/misc
+rmdir D:\System\Compilers\cygwin/usr/ssl/certs/expired
+rmdir D:\System\Compilers\cygwin/usr/ssl/certs/demo
+rmdir D:\System\Compilers\cygwin/usr/share/doc/openssl
+2015/04/14 17:59:46 Uninstalling terminfo
+unlink D:\System\Compilers\cygwin\lib/terminfo
+unlink D:\System\Compilers\cygwin/usr/share/man/man5/term.5.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man5/terminfo.5.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man7/term.7.gz
+unlink D:\System\Compilers\cygwin/usr/share/tabset/std
+unlink D:\System\Compilers\cygwin/usr/share/tabset/stdcrt
+unlink D:\System\Compilers\cygwin/usr/share/tabset/vt100
+unlink D:\System\Compilers\cygwin/usr/share/tabset/vt300
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/61/ansi
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/64/dumb
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/6c/linux
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/76/vt100
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/76/vt100-nav
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/76/vt102
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/76/vt220
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/76/vt52
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/45/Eterm
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/45/Eterm-256color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/45/Eterm-88color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/45/Eterm-color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/61/aterm
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/62/bterm
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/63/cons25
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/63/cygwin
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/65/eterm
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/65/eterm-color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/67/gnome
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/67/gnome-256color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/68/hurd
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/6a/jfbterm
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/6b/konsole
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/6b/konsole-256color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/6d/mach
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/6d/mach-bold
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/6d/mach-color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/6d/mach-gnu
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/6d/mach-gnu-color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/6d/mlterm
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/6d/mrxvt
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/6e/nsterm
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/70/putty
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/70/putty-256color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/70/putty-sco
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/70/putty-vt100
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/70/pcansi
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/72/rxvt
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/72/rxvt-16color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/72/rxvt-256color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/72/rxvt-88color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/72/rxvt-basic
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/72/rxvt-color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/72/rxvt-cygwin
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/72/rxvt-cygwin-native
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/72/rxvt-xpm
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/screen
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/screen-16color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/screen-256color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/screen.Eterm
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/screen.gnome
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/screen.konsole
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/screen.linux
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/screen.mlterm
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/screen.mrxvt
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/screen.rxvt
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/screen.teraterm
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/screen.vte
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/screen.xterm-new
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/screen.xterm-r6
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/screen.xterm-xfree86
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/st
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/st-16color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/st-256color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/73/sun
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/74/teraterm
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/74/teraterm2.3
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/76/vte
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/76/vte-256color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/76/vwmterm
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/77/wsvt25
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/77/wsvt25m
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xfce
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-1002
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-1003
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-1005
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-1006
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-16color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-24
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-256color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-88color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-8bit
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-basic
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-bold
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-color
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-hp
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-new
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-nic
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-noapp
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-old
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-pcolor
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-r5
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-r6
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-sco
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-sun
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-utf8
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-vt220
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-vt52
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-x10mouse
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-x11hilite
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-x11mouse
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-xf86-v32
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-xf86-v33
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-xf86-v333
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-xf86-v40
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-xf86-v43
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-xf86-v44
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-xfree86
+unlink D:\System\Compilers\cygwin/usr/share/terminfo/78/xterm-xi
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/78
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/77
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/76
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/74
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/73
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/72
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/70
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/6e
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/6d
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/6c
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/6b
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/6a
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/68
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/67
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/65
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/64
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/63
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/62
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/61
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo/45
+rmdir D:\System\Compilers\cygwin/usr/share/terminfo
+rmdir D:\System\Compilers\cygwin/usr/share/tabset
+2015/04/14 17:59:46 Uninstalling util-linux
+unlink D:\System\Compilers\cygwin\bin/cal.exe
+unlink D:\System\Compilers\cygwin\bin/col.exe
+unlink D:\System\Compilers\cygwin\bin/colcrt.exe
+unlink D:\System\Compilers\cygwin\bin/colrm.exe
+unlink D:\System\Compilers\cygwin\bin/column.exe
+unlink D:\System\Compilers\cygwin\bin/flock.exe
+unlink D:\System\Compilers\cygwin\bin/getopt.exe
+unlink D:\System\Compilers\cygwin\bin/hexdump.exe
+unlink D:\System\Compilers\cygwin\bin/ipcmk.exe
+unlink D:\System\Compilers\cygwin\bin/isosize.exe
+unlink D:\System\Compilers\cygwin\bin/logger.exe
+unlink D:\System\Compilers\cygwin\bin/look.exe
+unlink D:\System\Compilers\cygwin\bin/mcookie.exe
+unlink D:\System\Compilers\cygwin\bin/more.exe
+unlink D:\System\Compilers\cygwin\bin/namei.exe
+unlink D:\System\Compilers\cygwin\bin/pg.exe
+unlink D:\System\Compilers\cygwin\bin/rename.exe
+unlink D:\System\Compilers\cygwin\bin/renice.exe
+unlink D:\System\Compilers\cygwin\bin/rev.exe
+unlink D:\System\Compilers\cygwin\bin/script.exe
+unlink D:\System\Compilers\cygwin\bin/scriptreplay.exe
+unlink D:\System\Compilers\cygwin\bin/setsid.exe
+unlink D:\System\Compilers\cygwin\bin/tailf.exe
+unlink D:\System\Compilers\cygwin\bin/ul.exe
+unlink D:\System\Compilers\cygwin\bin/uuidgen.exe
+unlink D:\System\Compilers\cygwin\bin/whereis.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/agetty.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/blkid.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/cfdisk.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/fdisk.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/findfs.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/fsck.cramfs.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/fsck.minix.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/mkfs.bfs.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/mkfs.cramfs.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/mkfs.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/mkfs.minix.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/mkswap.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/sfdisk.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/swaplabel.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/uuidd.exe
+unlink D:\System\Compilers\cygwin/usr/sbin/wipefs.exe
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/blkid
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/cal
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/cfdisk
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/col
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/colcrt
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/colrm
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/column
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/fdisk
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/flock
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/fsck.cramfs
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/fsck.minix
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/getopt
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/hexdump
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/isosize
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/logger
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/look
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/mcookie
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/mkfs
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/mkfs.bfs
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/mkfs.cramfs
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/mkfs.minix
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/mkswap
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/more
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/namei
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/pg
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/rename
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/renice
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/rev
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/script
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/scriptreplay
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/setsid
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/sfdisk
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/swaplabel
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/tailf
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/ul
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/uuidd
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/uuidgen
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/whereis
+unlink D:\System\Compilers\cygwin/usr/share/bash-completion/completions/wipefs
+unlink D:\System\Compilers\cygwin/usr/share/doc/util-linux/AUTHORS
+unlink D:\System\Compilers\cygwin/usr/share/doc/util-linux/ChangeLog
+unlink D:\System\Compilers\cygwin/usr/share/doc/util-linux/COPYING
+unlink D:\System\Compilers\cygwin/usr/share/doc/util-linux/getopt/getopt-parse.bash
+unlink D:\System\Compilers\cygwin/usr/share/doc/util-linux/getopt/getopt-parse.tcsh
+unlink D:\System\Compilers\cygwin/usr/share/doc/util-linux/NEWS
+unlink D:\System\Compilers\cygwin/usr/share/doc/util-linux/README
+unlink D:\System\Compilers\cygwin/usr/share/locale/ca/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/cs/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/da/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/de/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/es/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/et/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/eu/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/fi/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/fr/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/gl/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/hr/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/hu/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/id/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/it/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/ja/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/nl/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/pl/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/pt_BR/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/ru/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/sl/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/sv/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/tr/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/uk/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/vi/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/zh_CN/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/locale/zh_TW/LC_MESSAGES/util-linux.mo
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/cal.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/col.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/colcrt.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/colrm.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/column.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/flock.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/getopt.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/hexdump.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/ipcmk.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/logger.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/look.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/mcookie.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/more.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/namei.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/pg.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/rename.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/renice.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/rev.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/script.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/scriptreplay.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/setsid.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/tailf.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/ul.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/uuidgen.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man1/whereis.1.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man5/terminal-colors.d.5.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/agetty.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/blkid.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/cfdisk.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/fdisk.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/findfs.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/fsck.cramfs.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/fsck.minix.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/isosize.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/mkfs.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/mkfs.bfs.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/mkfs.cramfs.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/mkfs.minix.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/mkswap.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/sfdisk.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/swaplabel.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/uuidd.8.gz
+unlink D:\System\Compilers\cygwin/usr/share/man/man8/wipefs.8.gz
+rmdir D:\System\Compilers\cygwin/usr/share/doc/util-linux/getopt
+rmdir D:\System\Compilers\cygwin/usr/share/doc/util-linux
+rmdir D:\System\Compilers\cygwin/usr/share/bash-completion/completions
+rmdir D:\System\Compilers\cygwin/usr/share/bash-completion
+2015/04/14 17:59:46 Uninstalling vim-minimal
+unlink D:\System\Compilers\cygwin\bin/ex
+unlink D:\System\Compilers\cygwin\bin/rvi
+unlink D:\System\Compilers\cygwin\bin/vi.exe
+2015/04/14 17:59:46 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+Installing file cygfile:///etc/
+Installing file cygfile:///etc/postinstall/
+Installing file cygfile:///etc/postinstall/000-cygwin-post-install.sh
+2015/04/14 17:59:46 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/bash/bash-4.3.33-1.tar.xz
+Installing file cygfile:///etc/
+Installing file cygfile:///etc/postinstall/
+Installing file cygfile:///etc/postinstall/bash.sh
+Installing file cygfile:///usr/
+Installing file cygfile:///usr/bin/
+Installing file cygfile:///usr/bin/bash.exe
+Installing file cygfile:///usr/bin/bashbug
+Installing file cygfile:///usr/bin/sh.exe
+Installing file cygfile:///usr/include/
+Installing file cygfile:///usr/include/bash/
+Installing file cygfile:///usr/include/bash/alias.h
+Installing file cygfile:///usr/include/bash/ansi_stdlib.h
+Installing file cygfile:///usr/include/bash/array.h
+Installing file cygfile:///usr/include/bash/arrayfunc.h
+Installing file cygfile:///usr/include/bash/assoc.h
+Installing file cygfile:///usr/include/bash/bashansi.h
+Installing file cygfile:///usr/include/bash/bashgetopt.h
+Installing file cygfile:///usr/include/bash/bashhist.h
+Installing file cygfile:///usr/include/bash/bashintl.h
+Installing file cygfile:///usr/include/bash/bashjmp.h
+Installing file cygfile:///usr/include/bash/bashline.h
+Installing file cygfile:///usr/include/bash/bashtypes.h
+Installing file cygfile:///usr/include/bash/builtins.h
+Installing file cygfile:///usr/include/bash/chartypes.h
+Installing file cygfile:///usr/include/bash/collsyms.h
+Installing file cygfile:///usr/include/bash/command.h
+Installing file cygfile:///usr/include/bash/common.h
+Installing file cygfile:///usr/include/bash/config-bot.h
+Installing file cygfile:///usr/include/bash/config-top.h
+Installing file cygfile:///usr/include/bash/config.h
+Installing file cygfile:///usr/include/bash/conftypes.h
+Installing file cygfile:///usr/include/bash/dispose_cmd.h
+Installing file cygfile:///usr/include/bash/error.h
+Installing file cygfile:///usr/include/bash/execute_cmd.h
+Installing file cygfile:///usr/include/bash/externs.h
+Installing file cygfile:///usr/include/bash/filecntl.h
+Installing file cygfile:///usr/include/bash/findcmd.h
+Installing file cygfile:///usr/include/bash/flags.h
+Installing file cygfile:///usr/include/bash/general.h
+Installing file cygfile:///usr/include/bash/getopt.h
+Installing file cygfile:///usr/include/bash/gettext.h
+Installing file cygfile:///usr/include/bash/glob.h
+Installing file cygfile:///usr/include/bash/hashcmd.h
+Installing file cygfile:///usr/include/bash/hashlib.h
+Installing file cygfile:///usr/include/bash/input.h
+Installing file cygfile:///usr/include/bash/jobs.h
+Installing file cygfile:///usr/include/bash/lsignames.h
+Installing file cygfile:///usr/include/bash/mailcheck.h
+Installing file cygfile:///usr/include/bash/make_cmd.h
+Installing file cygfile:///usr/include/bash/maxpath.h
+Installing file cygfile:///usr/include/bash/memalloc.h
+Installing file cygfile:///usr/include/bash/ndir.h
+Installing file cygfile:///usr/include/bash/ocache.h
+Installing file cygfile:///usr/include/bash/parser.h
+Installing file cygfile:///usr/include/bash/patchlevel.h
+Installing file cygfile:///usr/include/bash/pathexp.h
+Installing file cygfile:///usr/include/bash/pathnames.h
+Installing file cygfile:///usr/include/bash/pcomplete.h
+Installing file cygfile:///usr/include/bash/posixdir.h
+Installing file cygfile:///usr/include/bash/posixjmp.h
+Installing file cygfile:///usr/include/bash/posixselect.h
+Installing file cygfile:///usr/include/bash/posixstat.h
+Installing file cygfile:///usr/include/bash/posixtime.h
+Installing file cygfile:///usr/include/bash/posixwait.h
+Installing file cygfile:///usr/include/bash/quit.h
+Installing file cygfile:///usr/include/bash/redir.h
+Installing file cygfile:///usr/include/bash/shell.h
+Installing file cygfile:///usr/include/bash/shmbchar.h
+Installing file cygfile:///usr/include/bash/shmbutil.h
+Installing file cygfile:///usr/include/bash/shtty.h
+Installing file cygfile:///usr/include/bash/sig.h
+Installing file cygfile:///usr/include/bash/siglist.h
+Installing file cygfile:///usr/include/bash/signames.h
+Installing file cygfile:///usr/include/bash/stat-time.h
+Installing file cygfile:///usr/include/bash/stdc.h
+Installing file cygfile:///usr/include/bash/strmatch.h
+Installing file cygfile:///usr/include/bash/subst.h
+Installing file cygfile:///usr/include/bash/syntax.h
+Installing file cygfile:///usr/include/bash/systimes.h
+Installing file cygfile:///usr/include/bash/test.h
+Installing file cygfile:///usr/include/bash/tilde.h
+Installing file cygfile:///usr/include/bash/trap.h
+Installing file cygfile:///usr/include/bash/typemax.h
+Installing file cygfile:///usr/include/bash/unionwait.h
+Installing file cygfile:///usr/include/bash/unwind_prot.h
+Installing file cygfile:///usr/include/bash/variables.h
+Installing file cygfile:///usr/include/bash/version.h
+Installing file cygfile:///usr/include/bash/xmalloc.h
+Installing file cygfile:///usr/lib/
+Installing file cygfile:///usr/lib/libbash.dll.a
+Installing file cygfile:///usr/share/
+Installing file cygfile:///usr/share/doc/
+Installing file cygfile:///usr/share/doc/bash/
+Installing file cygfile:///usr/share/doc/bash/AUTHORS
+Installing file cygfile:///usr/share/doc/bash/ChangeLog
+Installing file cygfile:///usr/share/doc/bash/CHANGES
+Installing file cygfile:///usr/share/doc/bash/COMPAT
+Installing file cygfile:///usr/share/doc/bash/COPYING
+Installing file cygfile:///usr/share/doc/bash/FAQ
+Installing file cygfile:///usr/share/doc/bash/html/
+Installing file cygfile:///usr/share/doc/bash/html/bash.html
+Installing file cygfile:///usr/share/doc/bash/html/bashref.html
+Installing file cygfile:///usr/share/doc/bash/INTRO
+Installing file cygfile:///usr/share/doc/bash/NEWS
+Installing file cygfile:///usr/share/doc/bash/NOTES
+Installing file cygfile:///usr/share/doc/bash/POSIX
+Installing file cygfile:///usr/share/doc/bash/RBASH
+Installing file cygfile:///usr/share/doc/bash/README
+Installing file cygfile:///usr/share/doc/Cygwin/
+Installing file cygfile:///usr/share/doc/Cygwin/bash.README
+Installing file cygfile:///usr/share/info/
+Installing file cygfile:///usr/share/info/bash.info.gz
+Installing file cygfile:///usr/share/locale/
+Installing file cygfile:///usr/share/locale/af/
+Installing file cygfile:///usr/share/locale/af/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/af/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/bg/
+Installing file cygfile:///usr/share/locale/bg/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/bg/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/ca/
+Installing file cygfile:///usr/share/locale/ca/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/ca/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/cs/
+Installing file cygfile:///usr/share/locale/cs/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/cs/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/da/
+Installing file cygfile:///usr/share/locale/da/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/da/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/de/
+Installing file cygfile:///usr/share/locale/de/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/de/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/el/
+Installing file cygfile:///usr/share/locale/el/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/el/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/en@boldquot/
+Installing file cygfile:///usr/share/locale/en@boldquot/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/en@boldquot/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/en@quot/
+Installing file cygfile:///usr/share/locale/en@quot/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/en@quot/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/eo/
+Installing file cygfile:///usr/share/locale/eo/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/eo/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/es/
+Installing file cygfile:///usr/share/locale/es/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/es/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/et/
+Installing file cygfile:///usr/share/locale/et/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/et/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/fi/
+Installing file cygfile:///usr/share/locale/fi/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/fi/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/fr/
+Installing file cygfile:///usr/share/locale/fr/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/fr/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/ga/
+Installing file cygfile:///usr/share/locale/ga/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/ga/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/gl/
+Installing file cygfile:///usr/share/locale/gl/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/gl/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/hr/
+Installing file cygfile:///usr/share/locale/hr/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/hr/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/hu/
+Installing file cygfile:///usr/share/locale/hu/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/hu/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/id/
+Installing file cygfile:///usr/share/locale/id/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/id/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/it/
+Installing file cygfile:///usr/share/locale/it/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/it/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/ja/
+Installing file cygfile:///usr/share/locale/ja/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/ja/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/lt/
+Installing file cygfile:///usr/share/locale/lt/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/lt/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/nl/
+Installing file cygfile:///usr/share/locale/nl/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/nl/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/pl/
+Installing file cygfile:///usr/share/locale/pl/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/pl/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/pt_BR/
+Installing file cygfile:///usr/share/locale/pt_BR/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/pt_BR/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/ro/
+Installing file cygfile:///usr/share/locale/ro/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/ro/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/ru/
+Installing file cygfile:///usr/share/locale/ru/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/ru/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/sk/
+Installing file cygfile:///usr/share/locale/sk/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/sk/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/sl/
+Installing file cygfile:///usr/share/locale/sl/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/sl/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/sr/
+Installing file cygfile:///usr/share/locale/sr/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/sr/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/sv/
+Installing file cygfile:///usr/share/locale/sv/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/sv/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/tr/
+Installing file cygfile:///usr/share/locale/tr/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/tr/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/uk/
+Installing file cygfile:///usr/share/locale/uk/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/uk/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/vi/
+Installing file cygfile:///usr/share/locale/vi/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/vi/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/zh_CN/
+Installing file cygfile:///usr/share/locale/zh_CN/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/zh_CN/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/locale/zh_TW/
+Installing file cygfile:///usr/share/locale/zh_TW/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/zh_TW/LC_MESSAGES/bash.mo
+Installing file cygfile:///usr/share/man/
+Installing file cygfile:///usr/share/man/man1/
+Installing file cygfile:///usr/share/man/man1/alias.1.gz
+Installing file cygfile:///usr/share/man/man1/bash.1.gz
+Installing file cygfile:///usr/share/man/man1/bashbug.1.gz
+Installing file cygfile:///usr/share/man/man1/bash_builtins.1.gz
+Installing file cygfile:///usr/share/man/man1/bg.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/bg.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/bind.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/bind.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/break.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/break.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/builtin.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/builtin.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/caller.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/caller.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/case.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/case.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/cd.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/cd.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/command.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/command.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/compgen.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/compgen.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/complete.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/complete.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/continue.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/continue.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/declare.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/declare.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/dirs.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/dirs.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/disown.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/disown.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/do.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/do.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/done.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/done.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/elif.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/elif.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/else.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/else.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/enable.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/enable.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/esac.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/esac.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/eval.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/eval.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/exec.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/exec.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/exit.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/exit.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/export.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/export.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/fc.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/fc.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/fg.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/fg.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/fi.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/fi.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/for.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/for.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/function.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/function.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/getopts.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/getopts.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/hash.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/hash.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/help.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/help.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/history.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/history.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/if.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/if.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/in.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/in.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/jobs.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/jobs.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/let.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/let.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/local.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/local.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/logout.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/logout.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/popd.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/popd.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/pushd.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/pushd.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/read.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/read.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/readonly.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/readonly.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/return.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/return.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/select.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/select.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/set.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/set.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/sh.1.gz
+Installing file cygfile:///usr/share/man/man1/shift.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/shift.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/shopt.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/shopt.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/source.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/source.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/suspend.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/suspend.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/then.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/then.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/time.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/time.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/times.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/times.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/trap.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/trap.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/type.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/type.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/typeset.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/typeset.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/ulimit.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/ulimit.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/umask.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/umask.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/unalias.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/unalias.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/unset.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/unset.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/until.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/until.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/wait.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/wait.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/while.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/while.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+Installing file cygfile:///usr/share/man/man1/[.1.gz
+io_stream::mklink (cygfile:///usr/share/man/man1/[.1.gz->cygfile:///usr/share/man/man1/alias.1.gz)
+2015/04/14 17:59:48 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/cygwin/cygwin-1.7.35-1.tar.xz
+Installing file cygfile:///etc/
+Installing file cygfile:///etc/defaults/
+Installing file cygfile:///etc/defaults/etc/
+Installing file cygfile:///etc/defaults/etc/cygserver.conf
+Installing file cygfile:///usr/bin/
+Installing file cygfile:///usr/bin/cygwin1.dll
+Installing file cygfile:///usr/bin/cygpath.exe
+Installing file cygfile:///usr/bin/getconf.exe
+Installing file cygfile:///usr/bin/getfacl.exe
+Installing file cygfile:///usr/bin/ldd.exe
+Installing file cygfile:///usr/bin/locale.exe
+Installing file cygfile:///usr/bin/kill.exe
+Installing file cygfile:///usr/bin/minidumper.exe
+Installing file cygfile:///usr/bin/mkgroup.exe
+Installing file cygfile:///usr/bin/mkpasswd.exe
+Installing file cygfile:///usr/bin/mount.exe
+Installing file cygfile:///usr/bin/passwd.exe
+Installing file cygfile:///usr/bin/pldd.exe
+Installing file cygfile:///usr/bin/ps.exe
+Installing file cygfile:///usr/bin/regtool.exe
+Installing file cygfile:///usr/bin/setfacl.exe
+Installing file cygfile:///usr/bin/setmetamode.exe
+Installing file cygfile:///usr/bin/ssp.exe
+Installing file cygfile:///usr/bin/tzset.exe
+Installing file cygfile:///usr/bin/umount.exe
+Installing file cygfile:///usr/bin/dumper.exe
+Installing file cygfile:///usr/bin/cygcheck.exe
+Installing file cygfile:///usr/bin/cygwin-console-helper.exe
+Installing file cygfile:///usr/bin/ldh.exe
+Installing file cygfile:///usr/bin/strace.exe
+Installing file cygfile:///usr/bin/cygserver-config
+Installing file cygfile:///usr/bin/cyglsa.dll
+Installing file cygfile:///usr/bin/cyglsa64.dll
+Installing file cygfile:///usr/bin/cyglsa-config
+Installing file cygfile:///usr/sbin/
+Installing file cygfile:///usr/sbin/cygserver.exe
+Installing file cygfile:///usr/share/cygwin/
+Installing file cygfile:///usr/share/cygwin/cygwin.ldif
+Installing file cygfile:///usr/share/doc/
+Installing file cygfile:///usr/share/doc/Cygwin/
+Installing file cygfile:///usr/share/doc/Cygwin/CYGWIN_LICENSE
+Installing file cygfile:///usr/share/doc/Cygwin/COPYING
+Installing file cygfile:///usr/share/doc/Cygwin/cygserver.README
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/cygwin-ug-net.pdf
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/cygwin-api.pdf
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/are-free.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/brief-history.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/cygwin-ug-net.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/dll.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/gdb.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/highlights.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/ntsec.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/ov-ex-unix.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/ov-ex-win.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/ov-new1.7.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/overview.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/programming.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/setup-env.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/setup-files.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/setup-locale.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/setup-maxmem.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/setup-net.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/using-cygserver.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/using-cygwinenv.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/using-effectively.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/using-filemodes.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/using-specialnames.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/using-textbinary.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/using-utils.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/using.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/windres.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-ug-net/index.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-api/
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-api/compatibility.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-api/cygwin-api.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-api/cygwin-functions.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-api/func-cygwin-login.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-api/func-cygwin-misc.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-api/std-bsd.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-api/std-deprec.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-api/std-gnu.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-api/std-notes.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-api/std-notimpl.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-api/std-solaris.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/html/cygwin-api/index.html
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/COPYING
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/CYGWIN_LICENSE
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/COPYING.NEWLIB
+Installing file cygfile:///usr/share/doc/cygwin-1.7.35/README
+2015/04/14 17:59:49 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/file/file-5.22-1.tar.xz
+Installing file cygfile:///usr/bin/file.exe
+Installing file cygfile:///usr/share/doc/
+Installing file cygfile:///usr/share/doc/file/
+Installing file cygfile:///usr/share/doc/file/AUTHORS
+Installing file cygfile:///usr/share/doc/file/ChangeLog
+Installing file cygfile:///usr/share/doc/file/COPYING
+Installing file cygfile:///usr/share/doc/file/NEWS
+Installing file cygfile:///usr/share/doc/file/README
+Installing file cygfile:///usr/share/doc/file/TODO
+Installing file cygfile:///usr/share/man/man1/
+Installing file cygfile:///usr/share/man/man1/file.1.gz
+Installing file cygfile:///usr/bin/cygmagic-1.dll
+Installing file cygfile:///usr/share/file/
+Installing file cygfile:///usr/share/file/magic
+io_stream::mklink (cygfile:///usr/share/file/magic->cygfile://../magic)
+Installing file cygfile:///usr/share/magic
+io_stream::mklink (cygfile:///usr/share/magic->cygfile://misc/magic)
+Installing file cygfile:///usr/share/misc/
+Installing file cygfile:///usr/share/misc/magic.mgc
+Installing file cygfile:///usr/share/misc/magic
+Installing file cygfile:///usr/share/man/man5/
+Installing file cygfile:///usr/share/man/man5/magic.5.gz
+2015/04/14 17:59:49 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/openssl/libopenssl100/libopenssl100-1.0.2a-1.tar.xz
+Installing file cygfile:///usr/bin/cygcrypto-1.0.0.dll
+Installing file cygfile:///usr/bin/cygssl-1.0.0.dll
+Installing file cygfile:///usr/lib/openssl-1.0.2/engines/
+Installing file cygfile:///usr/lib/openssl-1.0.2/engines/lib4758cca.so
+Installing file cygfile:///usr/lib/openssl-1.0.2/engines/libaep.so
+Installing file cygfile:///usr/lib/openssl-1.0.2/engines/libatalla.so
+Installing file cygfile:///usr/lib/openssl-1.0.2/engines/libcswift.so
+Installing file cygfile:///usr/lib/openssl-1.0.2/engines/libgmp.so
+Installing file cygfile:///usr/lib/openssl-1.0.2/engines/libchil.so
+Installing file cygfile:///usr/lib/openssl-1.0.2/engines/libnuron.so
+Installing file cygfile:///usr/lib/openssl-1.0.2/engines/libsureware.so
+Installing file cygfile:///usr/lib/openssl-1.0.2/engines/libubsec.so
+Installing file cygfile:///usr/lib/openssl-1.0.2/engines/libpadlock.so
+Installing file cygfile:///usr/lib/openssl-1.0.2/engines/libcapi.so
+Installing file cygfile:///usr/lib/openssl-1.0.2/engines/libgost.so
+2015/04/14 17:59:50 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/readline/libreadline7/libreadline7-6.3.8-1.tar.xz
+Installing file cygfile:///usr/bin/cyghistory7.dll
+Installing file cygfile:///usr/bin/cygreadline7.dll
+2015/04/14 17:59:50 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/openssl/openssl-1.0.2a-1.tar.xz
+Installing file cygfile:///usr/bin/openssl.exe
+Installing file cygfile:///usr/share/doc/
+Installing file cygfile:///usr/share/doc/openssl/
+Installing file cygfile:///usr/share/doc/openssl/CHANGES
+Installing file cygfile:///usr/share/doc/openssl/FAQ
+Installing file cygfile:///usr/share/doc/openssl/LICENSE
+Installing file cygfile:///usr/share/doc/openssl/NEWS
+Installing file cygfile:///usr/share/doc/openssl/README
+Installing file cygfile:///usr/share/doc/openssl/CHANGES.SSLeay
+Installing file cygfile:///usr/share/doc/openssl/INSTALL
+Installing file cygfile:///usr/share/man/man1/
+Installing file cygfile:///usr/share/man/man1/spkac.1.gz
+Installing file cygfile:///usr/share/man/man1/ts.1.gz
+Installing file cygfile:///usr/share/man/man1/tsget.1.gz
+Installing file cygfile:///usr/share/man/man1/verify.1.gz
+Installing file cygfile:///usr/share/man/man1/version.1.gz
+Installing file cygfile:///usr/share/man/man1/x509.1.gz
+Installing file cygfile:///usr/share/man/man1/sha.1.gz
+Installing file cygfile:///usr/share/man/man1/sha1.1.gz
+Installing file cygfile:///usr/share/man/man1/mdc2.1.gz
+Installing file cygfile:///usr/share/man/man1/ripemd160.1.gz
+Installing file cygfile:///usr/share/man/man1/sha224.1.gz
+Installing file cygfile:///usr/share/man/man1/sha256.1.gz
+Installing file cygfile:///usr/share/man/man1/sha384.1.gz
+Installing file cygfile:///usr/share/man/man1/sha512.1.gz
+Installing file cygfile:///usr/share/man/man1/md2.1.gz
+Installing file cygfile:///usr/share/man/man1/md4.1.gz
+Installing file cygfile:///usr/share/man/man1/md5.1.gz
+Installing file cygfile:///usr/share/man/man1/asn1parse.1.gz
+Installing file cygfile:///usr/share/man/man1/c_rehash.1.gz
+Installing file cygfile:///usr/share/man/man1/ca.1.gz
+Installing file cygfile:///usr/share/man/man1/ciphers.1.gz
+Installing file cygfile:///usr/share/man/man1/cms.1.gz
+Installing file cygfile:///usr/share/man/man1/crl.1.gz
+Installing file cygfile:///usr/share/man/man1/crl2pkcs7.1.gz
+Installing file cygfile:///usr/share/man/man1/dgst.1.gz
+Installing file cygfile:///usr/share/man/man1/dhparam.1.gz
+Installing file cygfile:///usr/share/man/man1/dsa.1.gz
+Installing file cygfile:///usr/share/man/man1/dsaparam.1.gz
+Installing file cygfile:///usr/share/man/man1/ec.1.gz
+Installing file cygfile:///usr/share/man/man1/ecparam.1.gz
+Installing file cygfile:///usr/share/man/man1/enc.1.gz
+Installing file cygfile:///usr/share/man/man1/errstr.1.gz
+Installing file cygfile:///usr/share/man/man1/gendsa.1.gz
+Installing file cygfile:///usr/share/man/man1/genpkey.1.gz
+Installing file cygfile:///usr/share/man/man1/genrsa.1.gz
+Installing file cygfile:///usr/share/man/man1/nseq.1.gz
+Installing file cygfile:///usr/share/man/man1/ocsp.1.gz
+Installing file cygfile:///usr/share/man/man1/openssl.1.gz
+Installing file cygfile:///usr/share/man/man1/passwd.1.gz
+Installing file cygfile:///usr/share/man/man1/pkcs12.1.gz
+Installing file cygfile:///usr/share/man/man1/pkcs7.1.gz
+Installing file cygfile:///usr/share/man/man1/pkcs8.1.gz
+Installing file cygfile:///usr/share/man/man1/pkey.1.gz
+Installing file cygfile:///usr/share/man/man1/pkeyparam.1.gz
+Installing file cygfile:///usr/share/man/man1/pkeyutl.1.gz
+Installing file cygfile:///usr/share/man/man1/rand.1.gz
+Installing file cygfile:///usr/share/man/man1/req.1.gz
+Installing file cygfile:///usr/share/man/man1/rsa.1.gz
+Installing file cygfile:///usr/share/man/man1/rsautl.1.gz
+Installing file cygfile:///usr/share/man/man1/s_client.1.gz
+Installing file cygfile:///usr/share/man/man1/s_server.1.gz
+Installing file cygfile:///usr/share/man/man1/s_time.1.gz
+Installing file cygfile:///usr/share/man/man1/sess_id.1.gz
+Installing file cygfile:///usr/share/man/man1/smime.1.gz
+Installing file cygfile:///usr/share/man/man1/speed.1.gz
+Installing file cygfile:///usr/share/man/man1/dss1.1.gz
+Installing file cygfile:///usr/share/man/man5/
+Installing file cygfile:///usr/share/man/man5/config.5.gz
+Installing file cygfile:///usr/share/man/man5/x509v3_config.5.gz
+Installing file cygfile:///usr/share/man/man7/
+Installing file cygfile:///usr/share/man/man7/des_modes.7.gz
+Installing file cygfile:///usr/ssl/
+Installing file cygfile:///usr/ssl/misc/
+Installing file cygfile:///usr/ssl/misc/CA.sh
+Installing file cygfile:///usr/ssl/misc/c_hash
+Installing file cygfile:///usr/ssl/misc/c_info
+Installing file cygfile:///usr/ssl/misc/c_issuer
+Installing file cygfile:///usr/ssl/misc/c_name
+Installing file cygfile:///usr/ssl/certs/
+Installing file cygfile:///usr/ssl/certs/README.RootCerts
+Installing file cygfile:///usr/ssl/certs/demo/
+Installing file cygfile:///usr/ssl/certs/demo/ca-cert.pem
+Installing file cygfile:///usr/ssl/certs/demo/dsa-ca.pem
+Installing file cygfile:///usr/ssl/certs/demo/dsa-pca.pem
+Installing file cygfile:///usr/ssl/certs/demo/pca-cert.pem
+Installing file cygfile:///usr/ssl/certs/expired/
+Installing file cygfile:///usr/ssl/certs/expired/ICE.crl
+Installing file cygfile:///usr/ssl/private/
+Installing file cygfile:///usr/ssl/openssl.cnf
+2015/04/14 17:59:51 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/ncurses/terminfo/terminfo-5.9-20150404-1.tar.xz
+Installing file cygfile:///usr/lib/terminfo
+io_stream::mklink (cygfile:///usr/lib/terminfo->cygfile://../share/terminfo)
+Installing file cygfile:///usr/share/man/man5/
+Installing file cygfile:///usr/share/man/man5/term.5.gz
+Installing file cygfile:///usr/share/man/man5/terminfo.5.gz
+Installing file cygfile:///usr/share/man/man7/
+Installing file cygfile:///usr/share/man/man7/term.7.gz
+Installing file cygfile:///usr/share/tabset/
+Installing file cygfile:///usr/share/tabset/std
+Installing file cygfile:///usr/share/tabset/stdcrt
+Installing file cygfile:///usr/share/tabset/vt100
+Installing file cygfile:///usr/share/tabset/vt300
+Installing file cygfile:///usr/share/terminfo/61/ansi
+Installing file cygfile:///usr/share/terminfo/64/dumb
+Installing file cygfile:///usr/share/terminfo/6c/linux
+Installing file cygfile:///usr/share/terminfo/76/vt100
+Installing file cygfile:///usr/share/terminfo/76/vt100-nav
+Installing file cygfile:///usr/share/terminfo/76/vt102
+Installing file cygfile:///usr/share/terminfo/76/vt220
+Installing file cygfile:///usr/share/terminfo/76/vt52
+Installing file cygfile:///usr/share/terminfo/45/Eterm
+Installing file cygfile:///usr/share/terminfo/45/Eterm-256color
+Installing file cygfile:///usr/share/terminfo/45/Eterm-88color
+Installing file cygfile:///usr/share/terminfo/45/Eterm-color
+io_stream::mklink (cygfile:///usr/share/terminfo/45/Eterm-color->cygfile://../45/Eterm)
+Installing file cygfile:///usr/share/terminfo/61/aterm
+Installing file cygfile:///usr/share/terminfo/62/bterm
+Installing file cygfile:///usr/share/terminfo/63/cons25
+Installing file cygfile:///usr/share/terminfo/63/cygwin
+Installing file cygfile:///usr/share/terminfo/65/eterm
+Installing file cygfile:///usr/share/terminfo/65/eterm-color
+Installing file cygfile:///usr/share/terminfo/67/gnome
+Installing file cygfile:///usr/share/terminfo/67/gnome-256color
+Installing file cygfile:///usr/share/terminfo/68/hurd
+Installing file cygfile:///usr/share/terminfo/6a/jfbterm
+io_stream::mklink (cygfile:///usr/share/terminfo/6a/jfbterm->cygfile://../6b/kon)
+Installing file cygfile:///usr/share/terminfo/6b/konsole
+Installing file cygfile:///usr/share/terminfo/6b/konsole-256color
+Installing file cygfile:///usr/share/terminfo/6d/mach
+Installing file cygfile:///usr/share/terminfo/6d/mach-bold
+Installing file cygfile:///usr/share/terminfo/6d/mach-color
+Installing file cygfile:///usr/share/terminfo/6d/mach-gnu
+Installing file cygfile:///usr/share/terminfo/6d/mach-gnu-color
+Installing file cygfile:///usr/share/terminfo/6d/mlterm
+Installing file cygfile:///usr/share/terminfo/6d/mrxvt
+Installing file cygfile:///usr/share/terminfo/6e/nsterm
+Installing file cygfile:///usr/share/terminfo/70/putty
+Installing file cygfile:///usr/share/terminfo/70/putty-256color
+Installing file cygfile:///usr/share/terminfo/70/putty-sco
+Installing file cygfile:///usr/share/terminfo/70/putty-vt100
+Installing file cygfile:///usr/share/terminfo/70/pcansi
+Installing file cygfile:///usr/share/terminfo/72/rxvt
+Installing file cygfile:///usr/share/terminfo/72/rxvt-16color
+Installing file cygfile:///usr/share/terminfo/72/rxvt-256color
+Installing file cygfile:///usr/share/terminfo/72/rxvt-88color
+Installing file cygfile:///usr/share/terminfo/72/rxvt-basic
+Installing file cygfile:///usr/share/terminfo/72/rxvt-color
+Installing file cygfile:///usr/share/terminfo/72/rxvt-cygwin
+Installing file cygfile:///usr/share/terminfo/72/rxvt-cygwin-native
+Installing file cygfile:///usr/share/terminfo/72/rxvt-xpm
+Installing file cygfile:///usr/share/terminfo/73/screen
+Installing file cygfile:///usr/share/terminfo/73/screen-16color
+Installing file cygfile:///usr/share/terminfo/73/screen-256color
+Installing file cygfile:///usr/share/terminfo/73/screen.Eterm
+Installing file cygfile:///usr/share/terminfo/73/screen.gnome
+Installing file cygfile:///usr/share/terminfo/73/screen.konsole
+Installing file cygfile:///usr/share/terminfo/73/screen.linux
+Installing file cygfile:///usr/share/terminfo/73/screen.mlterm
+Installing file cygfile:///usr/share/terminfo/73/screen.mrxvt
+Installing file cygfile:///usr/share/terminfo/73/screen.rxvt
+Installing file cygfile:///usr/share/terminfo/73/screen.teraterm
+Installing file cygfile:///usr/share/terminfo/73/screen.vte
+Installing file cygfile:///usr/share/terminfo/73/screen.xterm-new
+io_stream::mklink (cygfile:///usr/share/terminfo/73/screen.xterm-new->cygfile://../73/screen.xterm-xfree86)
+Installing file cygfile:///usr/share/terminfo/73/screen.xterm-r6
+Installing file cygfile:///usr/share/terminfo/73/screen.xterm-xfree86
+Installing file cygfile:///usr/share/terminfo/73/st
+Installing file cygfile:///usr/share/terminfo/73/st-16color
+Installing file cygfile:///usr/share/terminfo/73/st-256color
+Installing file cygfile:///usr/share/terminfo/73/sun
+Installing file cygfile:///usr/share/terminfo/74/teraterm
+Installing file cygfile:///usr/share/terminfo/74/teraterm2.3
+Installing file cygfile:///usr/share/terminfo/76/vte
+Installing file cygfile:///usr/share/terminfo/76/vte-256color
+Installing file cygfile:///usr/share/terminfo/76/vwmterm
+Installing file cygfile:///usr/share/terminfo/77/wsvt25
+Installing file cygfile:///usr/share/terminfo/77/wsvt25m
+Installing file cygfile:///usr/share/terminfo/78/xfce
+Installing file cygfile:///usr/share/terminfo/78/xterm
+Installing file cygfile:///usr/share/terminfo/78/xterm-1002
+Installing file cygfile:///usr/share/terminfo/78/xterm-1003
+Installing file cygfile:///usr/share/terminfo/78/xterm-1005
+Installing file cygfile:///usr/share/terminfo/78/xterm-1006
+Installing file cygfile:///usr/share/terminfo/78/xterm-16color
+Installing file cygfile:///usr/share/terminfo/78/xterm-24
+Installing file cygfile:///usr/share/terminfo/78/xterm-256color
+Installing file cygfile:///usr/share/terminfo/78/xterm-88color
+Installing file cygfile:///usr/share/terminfo/78/xterm-8bit
+Installing file cygfile:///usr/share/terminfo/78/xterm-basic
+Installing file cygfile:///usr/share/terminfo/78/xterm-bold
+Installing file cygfile:///usr/share/terminfo/78/xterm-color
+Installing file cygfile:///usr/share/terminfo/78/xterm-hp
+Installing file cygfile:///usr/share/terminfo/78/xterm-new
+Installing file cygfile:///usr/share/terminfo/78/xterm-nic
+Installing file cygfile:///usr/share/terminfo/78/xterm-noapp
+Installing file cygfile:///usr/share/terminfo/78/xterm-old
+Installing file cygfile:///usr/share/terminfo/78/xterm-pcolor
+Installing file cygfile:///usr/share/terminfo/78/xterm-r5
+Installing file cygfile:///usr/share/terminfo/78/xterm-r6
+Installing file cygfile:///usr/share/terminfo/78/xterm-sco
+Installing file cygfile:///usr/share/terminfo/78/xterm-sun
+Installing file cygfile:///usr/share/terminfo/78/xterm-utf8
+Installing file cygfile:///usr/share/terminfo/78/xterm-vt220
+Installing file cygfile:///usr/share/terminfo/78/xterm-vt52
+Installing file cygfile:///usr/share/terminfo/78/xterm-x10mouse
+Installing file cygfile:///usr/share/terminfo/78/xterm-x11hilite
+Installing file cygfile:///usr/share/terminfo/78/xterm-x11mouse
+Installing file cygfile:///usr/share/terminfo/78/xterm-xf86-v32
+Installing file cygfile:///usr/share/terminfo/78/xterm-xf86-v33
+Installing file cygfile:///usr/share/terminfo/78/xterm-xf86-v333
+Installing file cygfile:///usr/share/terminfo/78/xterm-xf86-v40
+Installing file cygfile:///usr/share/terminfo/78/xterm-xf86-v43
+Installing file cygfile:///usr/share/terminfo/78/xterm-xf86-v44
+Installing file cygfile:///usr/share/terminfo/78/xterm-xfree86
+Installing file cygfile:///usr/share/terminfo/78/xterm-xi
+2015/04/14 17:59:51 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/util-linux/util-linux-2.25.2-2.tar.xz
+Installing file cygfile:///bin/
+Installing file cygfile:///bin/more.exe
+Installing file cygfile:///sbin/
+Installing file cygfile:///sbin/agetty.exe
+Installing file cygfile:///sbin/blkid.exe
+Installing file cygfile:///sbin/cfdisk.exe
+Installing file cygfile:///sbin/fdisk.exe
+Installing file cygfile:///sbin/findfs.exe
+Installing file cygfile:///sbin/fsck.cramfs.exe
+Installing file cygfile:///sbin/fsck.minix.exe
+Installing file cygfile:///sbin/mkfs.bfs.exe
+Installing file cygfile:///sbin/mkfs.cramfs.exe
+Installing file cygfile:///sbin/mkfs.exe
+Installing file cygfile:///sbin/mkfs.minix.exe
+Installing file cygfile:///sbin/mkswap.exe
+Installing file cygfile:///sbin/nologin.exe
+Installing file cygfile:///sbin/sfdisk.exe
+Installing file cygfile:///sbin/swaplabel.exe
+Installing file cygfile:///sbin/wipefs.exe
+Installing file cygfile:///usr/bin/
+Installing file cygfile:///usr/bin/cal.exe
+Installing file cygfile:///usr/bin/col.exe
+Installing file cygfile:///usr/bin/colcrt.exe
+Installing file cygfile:///usr/bin/colrm.exe
+Installing file cygfile:///usr/bin/column.exe
+Installing file cygfile:///usr/bin/flock.exe
+Installing file cygfile:///usr/bin/getopt.exe
+Installing file cygfile:///usr/bin/hexdump.exe
+Installing file cygfile:///usr/bin/ipcmk.exe
+Installing file cygfile:///usr/bin/isosize.exe
+Installing file cygfile:///usr/bin/logger.exe
+Installing file cygfile:///usr/bin/look.exe
+Installing file cygfile:///usr/bin/mcookie.exe
+Installing file cygfile:///usr/bin/namei.exe
+Installing file cygfile:///usr/bin/pg.exe
+Installing file cygfile:///usr/bin/rename.exe
+Installing file cygfile:///usr/bin/renice.exe
+Installing file cygfile:///usr/bin/rev.exe
+Installing file cygfile:///usr/bin/script.exe
+Installing file cygfile:///usr/bin/scriptreplay.exe
+Installing file cygfile:///usr/bin/setsid.exe
+Installing file cygfile:///usr/bin/tailf.exe
+Installing file cygfile:///usr/bin/ul.exe
+Installing file cygfile:///usr/bin/uuidgen.exe
+Installing file cygfile:///usr/bin/whereis.exe
+Installing file cygfile:///usr/sbin/
+Installing file cygfile:///usr/sbin/uuidd.exe
+Installing file cygfile:///usr/share/
+Installing file cygfile:///usr/share/bash-completion/
+Installing file cygfile:///usr/share/bash-completion/completions/
+Installing file cygfile:///usr/share/bash-completion/completions/blkid
+Installing file cygfile:///usr/share/bash-completion/completions/cal
+Installing file cygfile:///usr/share/bash-completion/completions/cfdisk
+Installing file cygfile:///usr/share/bash-completion/completions/col
+Installing file cygfile:///usr/share/bash-completion/completions/colcrt
+Installing file cygfile:///usr/share/bash-completion/completions/colrm
+Installing file cygfile:///usr/share/bash-completion/completions/column
+Installing file cygfile:///usr/share/bash-completion/completions/fdisk
+Installing file cygfile:///usr/share/bash-completion/completions/flock
+Installing file cygfile:///usr/share/bash-completion/completions/fsck.cramfs
+Installing file cygfile:///usr/share/bash-completion/completions/fsck.minix
+Installing file cygfile:///usr/share/bash-completion/completions/getopt
+Installing file cygfile:///usr/share/bash-completion/completions/hexdump
+Installing file cygfile:///usr/share/bash-completion/completions/isosize
+Installing file cygfile:///usr/share/bash-completion/completions/logger
+Installing file cygfile:///usr/share/bash-completion/completions/look
+Installing file cygfile:///usr/share/bash-completion/completions/mcookie
+Installing file cygfile:///usr/share/bash-completion/completions/mkfs
+Installing file cygfile:///usr/share/bash-completion/completions/mkfs.bfs
+Installing file cygfile:///usr/share/bash-completion/completions/mkfs.cramfs
+Installing file cygfile:///usr/share/bash-completion/completions/mkfs.minix
+Installing file cygfile:///usr/share/bash-completion/completions/mkswap
+Installing file cygfile:///usr/share/bash-completion/completions/more
+Installing file cygfile:///usr/share/bash-completion/completions/namei
+Installing file cygfile:///usr/share/bash-completion/completions/pg
+Installing file cygfile:///usr/share/bash-completion/completions/rename
+Installing file cygfile:///usr/share/bash-completion/completions/renice
+Installing file cygfile:///usr/share/bash-completion/completions/rev
+Installing file cygfile:///usr/share/bash-completion/completions/script
+Installing file cygfile:///usr/share/bash-completion/completions/scriptreplay
+Installing file cygfile:///usr/share/bash-completion/completions/setsid
+Installing file cygfile:///usr/share/bash-completion/completions/sfdisk
+Installing file cygfile:///usr/share/bash-completion/completions/swaplabel
+Installing file cygfile:///usr/share/bash-completion/completions/tailf
+Installing file cygfile:///usr/share/bash-completion/completions/ul
+Installing file cygfile:///usr/share/bash-completion/completions/uuidd
+Installing file cygfile:///usr/share/bash-completion/completions/uuidgen
+Installing file cygfile:///usr/share/bash-completion/completions/whereis
+Installing file cygfile:///usr/share/bash-completion/completions/wipefs
+Installing file cygfile:///usr/share/doc/
+Installing file cygfile:///usr/share/doc/util-linux/
+Installing file cygfile:///usr/share/doc/util-linux/AUTHORS
+Installing file cygfile:///usr/share/doc/util-linux/ChangeLog
+Installing file cygfile:///usr/share/doc/util-linux/COPYING
+Installing file cygfile:///usr/share/doc/util-linux/getopt/
+Installing file cygfile:///usr/share/doc/util-linux/getopt/getopt-parse.bash
+Installing file cygfile:///usr/share/doc/util-linux/getopt/getopt-parse.tcsh
+Installing file cygfile:///usr/share/doc/util-linux/NEWS
+Installing file cygfile:///usr/share/doc/util-linux/README
+Installing file cygfile:///usr/share/locale/
+Installing file cygfile:///usr/share/locale/ca/
+Installing file cygfile:///usr/share/locale/ca/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/ca/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/cs/
+Installing file cygfile:///usr/share/locale/cs/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/cs/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/da/
+Installing file cygfile:///usr/share/locale/da/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/da/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/de/
+Installing file cygfile:///usr/share/locale/de/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/de/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/es/
+Installing file cygfile:///usr/share/locale/es/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/es/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/et/
+Installing file cygfile:///usr/share/locale/et/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/et/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/eu/
+Installing file cygfile:///usr/share/locale/eu/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/eu/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/fi/
+Installing file cygfile:///usr/share/locale/fi/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/fi/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/fr/
+Installing file cygfile:///usr/share/locale/fr/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/fr/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/gl/
+Installing file cygfile:///usr/share/locale/gl/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/gl/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/hr/
+Installing file cygfile:///usr/share/locale/hr/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/hr/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/hu/
+Installing file cygfile:///usr/share/locale/hu/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/hu/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/id/
+Installing file cygfile:///usr/share/locale/id/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/id/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/it/
+Installing file cygfile:///usr/share/locale/it/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/it/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/ja/
+Installing file cygfile:///usr/share/locale/ja/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/ja/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/nl/
+Installing file cygfile:///usr/share/locale/nl/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/nl/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/pl/
+Installing file cygfile:///usr/share/locale/pl/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/pl/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/pt_BR/
+Installing file cygfile:///usr/share/locale/pt_BR/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/pt_BR/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/ru/
+Installing file cygfile:///usr/share/locale/ru/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/ru/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/sl/
+Installing file cygfile:///usr/share/locale/sl/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/sl/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/sv/
+Installing file cygfile:///usr/share/locale/sv/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/sv/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/tr/
+Installing file cygfile:///usr/share/locale/tr/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/tr/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/uk/
+Installing file cygfile:///usr/share/locale/uk/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/uk/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/vi/
+Installing file cygfile:///usr/share/locale/vi/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/vi/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/zh_CN/
+Installing file cygfile:///usr/share/locale/zh_CN/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/zh_CN/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/locale/zh_TW/
+Installing file cygfile:///usr/share/locale/zh_TW/LC_MESSAGES/
+Installing file cygfile:///usr/share/locale/zh_TW/LC_MESSAGES/util-linux.mo
+Installing file cygfile:///usr/share/man/
+Installing file cygfile:///usr/share/man/man1/
+Installing file cygfile:///usr/share/man/man1/cal.1.gz
+Installing file cygfile:///usr/share/man/man1/col.1.gz
+Installing file cygfile:///usr/share/man/man1/colcrt.1.gz
+Installing file cygfile:///usr/share/man/man1/colrm.1.gz
+Installing file cygfile:///usr/share/man/man1/column.1.gz
+Installing file cygfile:///usr/share/man/man1/flock.1.gz
+Installing file cygfile:///usr/share/man/man1/getopt.1.gz
+Installing file cygfile:///usr/share/man/man1/hexdump.1.gz
+Installing file cygfile:///usr/share/man/man1/ipcmk.1.gz
+Installing file cygfile:///usr/share/man/man1/logger.1.gz
+Installing file cygfile:///usr/share/man/man1/look.1.gz
+Installing file cygfile:///usr/share/man/man1/mcookie.1.gz
+Installing file cygfile:///usr/share/man/man1/more.1.gz
+Installing file cygfile:///usr/share/man/man1/namei.1.gz
+Installing file cygfile:///usr/share/man/man1/pg.1.gz
+Installing file cygfile:///usr/share/man/man1/rename.1.gz
+Installing file cygfile:///usr/share/man/man1/renice.1.gz
+Installing file cygfile:///usr/share/man/man1/rev.1.gz
+Installing file cygfile:///usr/share/man/man1/script.1.gz
+Installing file cygfile:///usr/share/man/man1/scriptreplay.1.gz
+Installing file cygfile:///usr/share/man/man1/setsid.1.gz
+Installing file cygfile:///usr/share/man/man1/tailf.1.gz
+Installing file cygfile:///usr/share/man/man1/ul.1.gz
+Installing file cygfile:///usr/share/man/man1/uuidgen.1.gz
+Installing file cygfile:///usr/share/man/man1/whereis.1.gz
+Installing file cygfile:///usr/share/man/man5/
+Installing file cygfile:///usr/share/man/man5/terminal-colors.d.5.gz
+Installing file cygfile:///usr/share/man/man8/
+Installing file cygfile:///usr/share/man/man8/agetty.8.gz
+Installing file cygfile:///usr/share/man/man8/blkid.8.gz
+Installing file cygfile:///usr/share/man/man8/cfdisk.8.gz
+Installing file cygfile:///usr/share/man/man8/fdisk.8.gz
+Installing file cygfile:///usr/share/man/man8/findfs.8.gz
+Installing file cygfile:///usr/share/man/man8/fsck.cramfs.8.gz
+Installing file cygfile:///usr/share/man/man8/fsck.minix.8.gz
+Installing file cygfile:///usr/share/man/man8/isosize.8.gz
+Installing file cygfile:///usr/share/man/man8/mkfs.8.gz
+Installing file cygfile:///usr/share/man/man8/mkfs.bfs.8.gz
+Installing file cygfile:///usr/share/man/man8/mkfs.cramfs.8.gz
+Installing file cygfile:///usr/share/man/man8/mkfs.minix.8.gz
+Installing file cygfile:///usr/share/man/man8/mkswap.8.gz
+Installing file cygfile:///usr/share/man/man8/nologin.8.gz
+Installing file cygfile:///usr/share/man/man8/sfdisk.8.gz
+Installing file cygfile:///usr/share/man/man8/swaplabel.8.gz
+Installing file cygfile:///usr/share/man/man8/uuidd.8.gz
+Installing file cygfile:///usr/share/man/man8/wipefs.8.gz
+2015/04/14 17:59:53 Extracting from file://C:\Users\nidhalkratos\temp/http%3a%2f%2fdownload.nus.edu.sg%2fmirror%2fcygwin%2f/x86/release/vim/vim-minimal/vim-minimal-7.4.692-1.tar.xz
+Installing file cygfile:///usr/bin/ex
+io_stream::mklink (cygfile:///usr/bin/ex->cygfile://vi.exe)
+Installing file cygfile:///usr/bin/rvi
+io_stream::mklink (cygfile:///usr/bin/rvi->cygfile://vi.exe)
+Installing file cygfile:///usr/bin/vi.exe
+2015/04/14 17:59:53 Changing gid back to original
+Visited: 85 nodes out of 5271 while creating dependency order.
+Dependency order of packages: base-cygwin cygwin dash _autorebase _update-info-dir libiconv2 libintl8 alternatives libattr1 libgcc1 libgmp10 coreutils libstdc++6 terminfo libncursesw10 libreadline7 bash findutils sed base-files zlib0 zlib-devel binutils libbz2_1 bzip2 libffi6 libp11-kit0 libtasn1_6 p11-kit p11-kit-trust ca-certificates crypt popt libpopt0 cygutils cygwin-devel editrights file libmpfr4 gawk libatomic1 libcloog-isl4 libgomp1 libisl10 libmpc3 libquadmath0 libssp0 w32api-headers w32api-runtime windows-default-manifest gcc-core libargp getent libpcre1 grep groff gzip hostname info ipc-utils less libuuid1 libblkid1 libgdbm4 libltdl7 libguile17 libiconv liblzma5 libopenssl100 libpipeline1 libsmartcols1 login lynx make util-linux man-db mintty openssl rebase run xz tar tzcode vim-minimal which 
+2015/04/14 17:59:53 running: D:\System\Compilers\cygwin\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+Note: _autorebase will do a full rebase the next time setup is run.
+cat: /var/lib/rebase/dynpath.d/*: No such file or directory
+removing /var/cache/rebase/rebase_pkg
+creating empty /var/cache/rebase/rebase_pkg
+Updating package information in /var/cache/rebase/rebase_pkg.
+	from /etc/setup/alternatives.lst.gz...
+	from /etc/setup/base-cygwin.lst.gz...
+	from /etc/setup/base-files.lst.gz...
+	from /etc/setup/bash.lst.gz...
+	from /etc/setup/binutils.lst.gz...
+	from /etc/setup/bzip2.lst.gz...
+	from /etc/setup/ca-certificates.lst.gz...
+	from /etc/setup/coreutils.lst.gz...
+	from /etc/setup/crypt.lst.gz...
+	from /etc/setup/cygutils.lst.gz...
+	from /etc/setup/cygwin-devel.lst.gz...
+	from /etc/setup/cygwin.lst.gz...
+	from /etc/setup/dash.lst.gz...
+	from /etc/setup/editrights.lst.gz...
+	from /etc/setup/file.lst.gz...
+	from /etc/setup/findutils.lst.gz...
+	from /etc/setup/gawk.lst.gz...
+	from /etc/setup/gcc-core.lst.gz...
+	from /etc/setup/getent.lst.gz...
+	from /etc/setup/grep.lst.gz...
+	from /etc/setup/groff.lst.gz...
+	from /etc/setup/gzip.lst.gz...
+	from /etc/setup/hostname.lst.gz...
+	from /etc/setup/info.lst.gz...
+	from /etc/setup/ipc-utils.lst.gz...
+	from /etc/setup/less.lst.gz...
+	from /etc/setup/libargp.lst.gz...
+	from /etc/setup/libatomic1.lst.gz...
+	from /etc/setup/libattr1.lst.gz...
+	from /etc/setup/libblkid1.lst.gz...
+	from /etc/setup/libbz2_1.lst.gz...
+	from /etc/setup/libcloog-isl4.lst.gz...
+	from /etc/setup/libffi6.lst.gz...
+	from /etc/setup/libgcc1.lst.gz...
+	from /etc/setup/libgdbm4.lst.gz...
+	from /etc/setup/libgmp10.lst.gz...
+	from /etc/setup/libgomp1.lst.gz...
+	from /etc/setup/libguile17.lst.gz...
+	from /etc/setup/libiconv.lst.gz...
+	from /etc/setup/libiconv2.lst.gz...
+	from /etc/setup/libintl8.lst.gz...
+	from /etc/setup/libisl10.lst.gz...
+	from /etc/setup/libltdl7.lst.gz...
+	from /etc/setup/liblzma5.lst.gz...
+	from /etc/setup/libmpc3.lst.gz...
+	from /etc/setup/libmpfr4.lst.gz...
+	from /etc/setup/libncursesw10.lst.gz...
+	from /etc/setup/libopenssl100.lst.gz...
+	from /etc/setup/libp11-kit0.lst.gz...
+	from /etc/setup/libpcre1.lst.gz...
+	from /etc/setup/libpipeline1.lst.gz...
+	from /etc/setup/libquadmath0.lst.gz...
+	from /etc/setup/libreadline7.lst.gz...
+	from /etc/setup/libsmartcols1.lst.gz...
+	from /etc/setup/libssp0.lst.gz...
+	from /etc/setup/libstdc++6.lst.gz...
+	from /etc/setup/libtasn1_6.lst.gz...
+	from /etc/setup/libuuid1.lst.gz...
+	from /etc/setup/login.lst.gz...
+	from /etc/setup/lynx.lst.gz...
+	from /etc/setup/make.lst.gz...
+	from /etc/setup/man-db.lst.gz...
+	from /etc/setup/mintty.lst.gz...
+	from /etc/setup/openssl.lst.gz...
+	from /etc/setup/p11-kit-trust.lst.gz...
+	from /etc/setup/p11-kit.lst.gz...
+	from /etc/setup/popt.lst.gz...
+	from /etc/setup/rebase.lst.gz...
+	from /etc/setup/run.lst.gz...
+	from /etc/setup/sed.lst.gz...
+	from /etc/setup/tar.lst.gz...
+	from /etc/setup/terminfo.lst.gz...
+	from /etc/setup/tzcode.lst.gz...
+	from /etc/setup/util-linux.lst.gz...
+	from /etc/setup/vim-minimal.lst.gz...
+	from /etc/setup/w32api-headers.lst.gz...
+	from /etc/setup/w32api-runtime.lst.gz...
+	from /etc/setup/which.lst.gz...
+	from /etc/setup/windows-default-manifest.lst.gz...
+	from /etc/setup/xz.lst.gz...
+	from /etc/setup/zlib-devel.lst.gz...
+	from /etc/setup/zlib0.lst.gz...
+	from /etc/setup/_autorebase.lst.gz...
+	from /etc/setup/_update-info-dir.lst.gz...
+removing /var/cache/rebase/rebase_lst
+creating empty /var/cache/rebase/rebase_lst
+Updating rebase information for installed dynamic objects in /var/cache/rebase/rebase_lst.
+Updating rebase information for installed executables in /var/cache/rebase/rebase_exe.
+removing /var/cache/rebase/rebase_dyn
+creating empty /var/cache/rebase/rebase_dyn
+removing /var/cache/rebase/rebase_user
+creating empty /var/cache/rebase/rebase_user
+Updating rebase information for user-defined dynamic objects /var/cache/rebase/rebase_user.
+removing /var/cache/rebase/rebase_user_exe
+creating empty /var/cache/rebase/rebase_user_exe
+Updating rebase information for user-defined executables /var/cache/rebase/rebase_user_exe.
+Rebasing with list /var/cache/rebase/rebase_all, built from /var/cache/rebase/rebase_lst /var/cache/rebase/rebase_dyn /var/cache/rebase/rebase_user.
+2015/04/14 18:00:02 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/000-cygwin-post-install.sh"
+2015/04/14 18:00:02 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/bash.sh"
+2015/04/14 18:00:02 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-mketc.sh"
+'/etc/hosts' -> '/cygdrive/c/Windows/System32/drivers/etc/hosts'
+'/etc/protocols' -> '/cygdrive/c/Windows/System32/drivers/etc/protocols'
+'/etc/services' -> '/cygdrive/c/Windows/System32/drivers/etc/services'
+'/etc/networks' -> '/cygdrive/c/Windows/System32/drivers/etc/networks'
+2015/04/14 18:00:03 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-profile.sh"
+Using the default version of /etc/profile.d/lang.sh (/etc/defaults/etc/profile.d/lang.sh)
+Using the default version of /etc/profile.d/lang.csh (/etc/defaults/etc/profile.d/lang.csh)
+Using the default version of /etc/profile.d/tzset.sh (/etc/defaults/etc/profile.d/tzset.sh)
+Using the default version of /etc/profile.d/tzset.csh (/etc/defaults/etc/profile.d/tzset.csh)
+Using the default version of /etc/profile (/etc/defaults/etc/profile)
+Using the default version of /etc/shells (/etc/defaults/etc/shells)
+Using the default version of /etc/bash.bashrc (/etc/defaults/etc/bash.bashrc)
+Using the default version of /etc/bash.bash_logout (/etc/defaults/etc/bash.bash_logout)
+Using the default version of /etc/skel/.bashrc (/etc/defaults/etc/skel/.bashrc)
+Using the default version of /etc/skel/.inputrc (/etc/defaults/etc/skel/.inputrc)
+Using the default version of /etc/skel/.bash_profile (/etc/defaults/etc/skel/.bash_profile)
+Using the default version of /etc/skel/.profile (/etc/defaults/etc/skel/.profile)
+2015/04/14 18:00:04 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/ca-certificates.sh"
+2015/04/14 18:00:05 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/coreutils.sh"
+2015/04/14 18:00:05 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/lynx.sh"
+2015/04/14 18:00:06 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/man-db.sh"
+2015/04/14 18:00:06 running: D:\System\Compilers\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/update-info-dir.sh"
+2015/04/14 18:00:08 Changing gid to Administrators
+2015/04/14 18:01:49 note: Installation Complete
+2015/04/14 18:01:49 Ending cygwin install

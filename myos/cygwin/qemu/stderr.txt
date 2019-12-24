@@ -1,0 +1,13 @@
+WARNING: failed to find acpi-dsdt.aml
+/home/stefan/src/qemu/repo.or.cz/qemu/ar7/hw/input/ps2.c:303 ps2_keyboard_set_translation(0)
+/home/stefan/src/qemu/repo.or.cz/qemu/ar7/hw/input/ps2.c:303 ps2_keyboard_set_translation(0)
+/home/stefan/src/qemu/repo.or.cz/qemu/ar7/hw/input/ps2.c:303 ps2_keyboard_set_translation(0)
+/home/stefan/src/qemu/repo.or.cz/qemu/ar7/hw/input/ps2.c:303 ps2_keyboard_set_translation(0)
+/home/stefan/src/qemu/repo.or.cz/qemu/ar7/hw/input/ps2.c:303 ps2_keyboard_set_translation(0)
+/home/stefan/src/qemu/repo.or.cz/qemu/ar7/hw/input/ps2.c:303 ps2_keyboard_set_translation(0)
+/home/stefan/src/qemu/repo.or.cz/qemu/ar7/hw/input/ps2.c:303 ps2_keyboard_set_translation(0)
+/home/stefan/src/qemu/repo.or.cz/qemu/ar7/hw/input/ps2.c:303 ps2_keyboard_set_translation(0)
+/home/stefan/src/qemu/repo.or.cz/qemu/ar7/hw/input/ps2.c:303 ps2_keyboard_set_translation(0)
+/home/stefan/src/qemu/repo.or.cz/qemu/ar7/hw/input/ps2.c:303 ps2_keyboard_set_translation(1)
+/home/stefan/src/qemu/repo.or.cz/qemu/ar7/hw/input/ps2.c:303 ps2_keyboard_set_translation(1)
+/home/stefan/src/qemu/repo.or.cz/qemu/ar7/hw/input/ps2.c:303 ps2_keyboard_set_translation(1)

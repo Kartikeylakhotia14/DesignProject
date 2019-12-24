@@ -1,0 +1,8 @@
+Hi, Thank you for following Iknow at www.youtube.com/iknowbrain
+This package was made by Iknow to make it easy to you to build your operating system on windows easily.
+This package is based on cygwin, But it also contain nasm,i586 tools and even emulators... all set up to
+work with the cygwin bash terminal.
+
+Run the cygwin.bat to run the emulator
+
+My name is Nidhal Abidi. Thank you visiting Iknow and subscribing in it, I will really appreciate that :)
