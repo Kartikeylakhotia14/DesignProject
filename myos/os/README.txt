@@ -1,4 +1,4 @@
-1) Open cygwin folder and double click onCygwin Batch File
+1) Open cygwin folder and double click on Cygwin Batch File
 2) Go to the folder where you save the file myos/os.
 3) Copy all the below commands 
 
